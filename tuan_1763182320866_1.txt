@@ -1,5 +1,6 @@
-BOOK|8|tuan
-BOOK_NOTE|
-sdfdsfsdf
-END_BOOK_NOTE
-END_BOOK
+{
+  "name": "tuan",
+  "bookNote": "sdfdsfsdf",
+  "bookSections": [],
+  "chapters": []
+}
