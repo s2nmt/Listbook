@@ -1,0 +1,6 @@
+{
+  "name": "Neighborhood Compliment Walk",
+  "bookNote": "Sam takes evening walks dedicated to complimenting anything he sees. He congratulates porch pumpkins on their posture, applauds tidy hedges, and tells lampposts they are glowing examples of dedication. Neighbors now time their gardening to coincide with his cheerful commentary.",
+  "bookSections": [],
+  "chapters": []
+}

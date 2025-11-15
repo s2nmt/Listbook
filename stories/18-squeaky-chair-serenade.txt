@@ -1,0 +1,6 @@
+{
+  "name": "Squeaky Chair Serenade",
+  "bookNote": "Omar’s office chair squeaks a high note every time he leans forward, so he times important comments with the sound for maximum dramatic effect. His teammates think he has a custom soundtrack. The chair recently added a mysterious bass note, and now meetings feel suspiciously like rehearsals.",
+  "bookSections": [],
+  "chapters": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "DIY Haircut Chronicles",
+  "bookNote": "Garrett decided to trim his own hair, watched two tutorials, and felt unstoppable until the mirror reflected a lopsided masterpiece. He styled the longer side like a swooping cape and joined his video call with heroic lighting. Coworkers applauded his bravery, and Garrett promised the sequel would involve professional backup.",
+  "bookSections": [],
+  "chapters": []
+}

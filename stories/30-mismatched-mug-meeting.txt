@@ -1,0 +1,6 @@
+{
+  "name": "Mismatched Mug Meeting",
+  "bookNote": "Oli collects mugs with obscure slogans. During a morning meeting his camera revealed one that read “Official Pancake Inspector,” prompting the team to send him inspection forms. He obliged, reviewing everyone’s breakfasts with serious eye squints and imaginary clipboards. Productivity was questionable, morale was excellent.",
+  "bookSections": [],
+  "chapters": []
+}

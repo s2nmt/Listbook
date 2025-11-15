@@ -1,0 +1,6 @@
+{
+  "name": "Gaming Night Referee",
+  "bookNote": "During board game night, Mei brought a referee whistle to keep her friends honest. She issued playful yellow cards for excessive bragging and one dramatic red card when someone hid extra game pieces. The whistle has since become part of every gathering, even quiet movie nights, just in case popcorn negotiations get heated.",
+  "bookSections": [],
+  "chapters": []
+}

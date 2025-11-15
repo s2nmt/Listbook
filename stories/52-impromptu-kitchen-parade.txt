@@ -1,0 +1,6 @@
+{
+  "name": "Impromptu Kitchen Parade",
+  "bookNote": "Poppy turned cooking dinner into a parade by marching around the kitchen banging wooden spoons on pots. Roommates joined with spatulas and reusable containers as makeshift drums. The pasta boiled over during the grand finale, which everyone applauded as an avant-garde steam effect.",
+  "bookSections": [],
+  "chapters": []
+}

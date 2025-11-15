@@ -1,0 +1,6 @@
+{
+  "name": "Notebook Margin Doodles",
+  "bookNote": "During a long webinar, Felix doodled extravagant dragons in the margins of his notes. When the facilitator asked him to share key takeaways, he held up a dragon labeled “burn out notifications.” The chat exploded with laughter, and Felix earned the unofficial title of morale illustrator.",
+  "bookSections": [],
+  "chapters": []
+}

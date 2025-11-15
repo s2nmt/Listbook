@@ -1,0 +1,6 @@
+{
+  "name": "Notebook Overachiever",
+  "bookNote": "Caleb buys a new notebook every time he has a fresh idea. Page one always gets filled with bullet points, page two with doodles, and the remaining pages remain pristine monuments to potential. His friends staged an intervention, gifting him a notebook titled “Finish Me.” Caleb is considering it.",
+  "bookSections": [],
+  "chapters": []
+}

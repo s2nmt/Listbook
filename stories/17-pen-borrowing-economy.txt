@@ -1,0 +1,6 @@
+{
+  "name": "Pen Borrowing Economy",
+  "bookNote": "Nadia lends pens with tiny contracts attached, yet still never gets them back. She started naming each pen before lending it out, hoping sentimental guilt would help. Now everyone at the office proudly claims to be co-parenting pens named Gerald, Dot, and Sparkle. Nadia has accepted her new role as stationary diplomat.",
+  "bookSections": [],
+  "chapters": []
+}

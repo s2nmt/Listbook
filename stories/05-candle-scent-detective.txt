@@ -1,0 +1,6 @@
+{
+  "name": "Candle Scent Detective",
+  "bookNote": "Rena hosted a cozy game night and promised a prize to whoever guessed the candle scent. Guesses ranged from ‘fresh optimism’ to ‘new shoe memories.’ When the label revealed vanilla bean, everyone gasped dramatically and accused Rena of emotional misdirection. She handed out cookies, declared everyone correct, and retired from candle-based contests forever.",
+  "bookSections": [],
+  "chapters": []
+}

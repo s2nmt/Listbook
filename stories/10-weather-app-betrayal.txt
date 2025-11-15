@@ -1,0 +1,6 @@
+{
+  "name": "Weather App Betrayal",
+  "bookNote": "Hector trusted his weather app, wore sunglasses, and packed sunscreen for the commute. Halfway to work, rain erupted like a dramatic plot twist. He took shelter under a cafe awning, ordered hot chocolate, and wrote a strongly worded letter to the clouds. The sun reappeared five minutes later, looking smug.",
+  "bookSections": [],
+  "chapters": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Puddle Jumping Commute",
+  "bookNote": "When the sidewalk flooded, Kara decided to hop over puddles like an action hero. She landed with dramatic flourishes, narrated her own slow-motion replay, and earned applause from a passing dog walker. The final puddle soaked her completely, but she bowed anyway and declared victory on behalf of playful mornings.",
+  "bookSections": [],
+  "chapters": []
+}

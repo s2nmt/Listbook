@@ -1,6 +1,0 @@
-{
-  "name": "Clean Code",
-  "bookNote": "sdfdsfsdf",
-  "bookSections": [],
-  "chapters": []
-}

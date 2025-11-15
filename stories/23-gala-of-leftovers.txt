@@ -1,0 +1,6 @@
+{
+  "name": "Gala Of Leftovers",
+  "bookNote": "Tori hosted a leftover night, plated everything on fancy dishes, and gave dramatic speeches about reheated lasagna. Her microwave beeped like a trumpet fanfare. By dessert, which consisted of half a brownie and a single grape, everyone agreed it was the most glamorous refrigerator clean-out in neighborhood history.",
+  "bookSections": [],
+  "chapters": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "DIY Award Ceremony",
+  "bookNote": "Lily created a weekly award show for everyday accomplishments. She gives herself trophies made of cereal boxes for feats like remembering laundry or resisting online sales. Acceptance speeches happen in the mirror, and the applause button is a wooden spoon tapping a bowl.",
+  "bookSections": [],
+  "chapters": []
+}

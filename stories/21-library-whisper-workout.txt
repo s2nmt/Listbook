@@ -1,0 +1,6 @@
+{
+  "name": "Library Whisper Workout",
+  "bookNote": "Jade tried whispering during a video call at the library, forgetting that whispering while wearing headphones sounds suspiciously like dramatic ASMR. Her teammates muted themselves to laugh while she gestured wildly to assure them she was not being chased by book ghosts. She now schedules calls only near the potted ficus, her official soundproof booth.",
+  "bookSections": [],
+  "chapters": []
+}

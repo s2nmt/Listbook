@@ -1,0 +1,6 @@
+{
+  "name": "Phone Flashlight Expedition",
+  "bookNote": "Ian used his phone flashlight to search for his phone, wandering around the apartment narrating the quest. After five minutes he noticed his reflection holding the glowing device like a lantern. He bowed to himself, declared the expedition successful, and wrote “remember pockets exist” on a sticky note.",
+  "bookSections": [],
+  "chapters": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Dance Floor Daydream",
+  "bookNote": "Mia practiced her best dance moves in the hallway while waiting for laundry to finish. The elevator doors opened unexpectedly, revealing a delivery driver applauding her interpretive spin. She bowed, collected her package, and now refers to the hallway as Studio M whenever neighbors walk by.",
+  "bookSections": [],
+  "chapters": []
+}

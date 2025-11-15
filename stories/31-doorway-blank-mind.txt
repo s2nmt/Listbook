@@ -1,0 +1,6 @@
+{
+  "name": "Doorway Blank Mind",
+  "bookNote": "Tessa walked into the kitchen with purpose, forgot why, and stood very still like a statue gathering wisdom. Her roommate asked if she was buffering. Tessa finally remembered she wanted cereal, grabbed a spoon, and celebrated the small victory with a triumphant dance beside the fridge.",
+  "bookSections": [],
+  "chapters": []
+}

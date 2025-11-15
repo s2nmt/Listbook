@@ -1,0 +1,6 @@
+{
+  "name": "Giant Tote Bag Mystery",
+  "bookNote": "Serena carries a tote bag that could legally qualify as a tiny apartment. Inside you will find snacks, three umbrellas, a novel, and occasionally a stray sock. She insists everything has a purpose, though she once pulled out a whisk during a staff meeting and simply said, “emergency morale tool.”",
+  "bookSections": [],
+  "chapters": []
+}

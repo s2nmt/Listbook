@@ -1,6 +1,0 @@
-{
-  "name": "tuan",
-  "bookNote": "sdfdsfsdf",
-  "bookSections": [],
-  "chapters": []
-}

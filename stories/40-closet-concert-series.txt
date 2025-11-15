@@ -1,0 +1,6 @@
+{
+  "name": "Closet Concert Series",
+  "bookNote": "Becca sings full concerts while picking outfits, using hangers as microphones. One morning she finished an encore to find her roommate sitting cross-legged on the floor holding up a concert rating sign. Becca accepted the imaginary trophy and promised backstage passes after laundry day.",
+  "bookSections": [],
+  "chapters": []
+}

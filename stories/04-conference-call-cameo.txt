@@ -1,0 +1,6 @@
+{
+  "name": "Conference Call Cameo",
+  "bookNote": "During a very serious quarterly meeting, Jonah carefully muted himself, nodded thoughtfully, and tried to silently eat potato chips. His cat chose that moment to leap onto the keyboard, unmuting him and broadcasting the crunchiest bite in company history. Leadership applauded his commitment to transparency and asked for the brand of chips in the chat.",
+  "bookSections": [],
+  "chapters": []
+}

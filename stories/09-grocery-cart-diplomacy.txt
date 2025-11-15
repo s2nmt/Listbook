@@ -1,0 +1,6 @@
+{
+  "name": "Grocery Cart Diplomacy",
+  "bookNote": "Sonia promised herself she would only buy essentials, then steered her cart directly into the snack aisle for what she called morale research. She negotiated with herself out loud, compromised on three flavors of chips instead of five, and left a voice memo titled “do not shop hungry” that she will heroically ignore next week.",
+  "bookSections": [],
+  "chapters": []
+}

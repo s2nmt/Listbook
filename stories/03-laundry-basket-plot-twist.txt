@@ -1,0 +1,6 @@
+{
+  "name": "Laundry Basket Plot Twist",
+  "bookNote": "Priya decided to fold laundry like a responsible adult, but the basket swallowed every matching sock she thought she owned. She interrogated her washing machine, checked under the couch, and briefly suspected her goldfish. Eventually she paired two socks that only kind of matched and declared mismatched confidence the new trend for the entire apartment building.",
+  "bookSections": [],
+  "chapters": []
+}

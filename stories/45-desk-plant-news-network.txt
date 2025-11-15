@@ -1,0 +1,6 @@
+{
+  "name": "Desk Plant News Network",
+  "bookNote": "Luca updates his desk plant on daily headlines to keep it in the loop. He reports on weather, coffee shortages, and the thrilling saga of his inbox. The plant recently sprouted a new leaf, which Luca interprets as a request for sports coverage.",
+  "bookSections": [],
+  "chapters": []
+}

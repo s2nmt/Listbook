@@ -1,0 +1,6 @@
+{
+  "name": "Supermarket Compliment Patrol",
+  "bookNote": "Riley wandered the grocery store complimenting strangers’ produce choices. She told one shopper their watermelon looked heroic and congratulated another on brave bell peppers. The compliments started a chain reaction, and soon half the aisle was praising each other’s carts. The store manager called it Tuesday.",
+  "bookSections": [],
+  "chapters": []
+}

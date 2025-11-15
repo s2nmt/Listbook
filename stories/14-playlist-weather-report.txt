@@ -1,0 +1,6 @@
+{
+  "name": "Playlist Weather Report",
+  "bookNote": "Gus lets his shuffled playlist determine the day’s mood. One morning he got three power ballads in a row and announced a 90 percent chance of dramatic hair flips. By lunchtime the playlist switched to acoustic lull abies, and he declared a nap advisory that nobody obeyed.",
+  "bookSections": [],
+  "chapters": []
+}

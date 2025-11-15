@@ -1,0 +1,6 @@
+{
+  "name": "Calendar Time Traveler",
+  "bookNote": "Hugh forgot to move last year’s calendar off the wall and only realized it when June mysteriously repeated itself. He shrugged, declared bonus summer, and treated himself to popsicles. Eventually a neighbor pointed out the mistake, and Hugh promised to embrace the actual timeline with minimal confusion.",
+  "bookSections": [],
+  "chapters": []
+}
