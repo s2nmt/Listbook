@@ -1,0 +1,42 @@
+{
+  "name": "Clean Code",
+  "chapters": [
+    "Chapter 1",
+    "Chapter 2"
+  ],
+  "sections": [
+    {
+      "chapter": "Chapter 1",
+      "title": "Section 1.1"
+    },
+    {
+      "chapter": "Chapter 1",
+      "title": "Section 1.2"
+    },
+    {
+      "chapter": "Chapter 2",
+      "title": "Section 2.1"
+    },
+    {
+      "chapter": null,
+      "title": "Book-level section"
+    }
+  ],
+  "notes": [
+    {
+      "chapter": null,
+      "section": null,
+      "content": "Book level note"
+    },
+    {
+      "chapter": "Chapter 1",
+      "section": "Section 1.1",
+      "content": "Nội dung section 1.1"
+    },
+    {
+      "chapter": null,
+      "section": "Book-level section",
+      "content": "Note cho section trực tiếp"
+    }
+  ]
+}
