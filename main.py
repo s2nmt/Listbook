@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 
 # ===== Điền nội dung sách tại đây =====
-book_name = "Clean Code Mastery"
+book_name = "Clean Code"
 book_note = "Ghi chú chung cho toàn bộ cuốn sách."
 
 book_sections = [
@@ -38,7 +38,7 @@ chapters = [
     },
 ]
 
-output_file = Path("clean_code_mastery.txt")
+output_file = Path("cleancode.txt")
 # =======================================
 
 payload = {
