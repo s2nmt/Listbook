@@ -6,431 +6,406 @@ from pathlib import Path
 # ===== Điền nội dung sách tại đây =====
 stories = [
     {
-        "name": "Elevator Small Talk Escape",
+        "name": "The Talking Dog",
         "bookNote": (
-            "Ellie boarded the elevator planning to ride in silence, but a stranger enthusiastically asked about her "
-            "weekend plans. She panicked, blurted out that she was training for a competitive napping league, and "
-            "immediately regretted everything. The stranger applauded, requested tickets, and the elevator stopped "
-            "three floors early. Ellie took the stairs the rest of the week to avoid a rematch."
+            "A man sees a sign: 'Talking Dog for Sale.' He rings the bell and the owner tells him the dog is in the "
+            "backyard. The man asks the dog, 'Can you talk?' 'Yep,' the dog replies. 'I worked for the CIA, traveling "
+            "the world. Now I'm retired.' Amazed, the man asks the owner how much. The owner says, 'Ten dollars.' "
+            "'Why so cheap?' The owner replies, 'He's a liar. He never did any of that.'"
         ),
     },
     {
-        "name": "Decaf Disaster Day",
+        "name": "The Genie and the Three Wishes",
         "bookNote": (
-            "Marcus proudly announced he had switched to decaf to become a calmer version of himself. Thirty minutes "
-            "later he realized he had brewed regular coffee, powered through two presentations, reorganized the supply "
-            "closet, and apologized to the office plant for speaking too loudly. He now labels every mug with sticky "
-            "notes like an overcaffeinated librarian guarding secrets."
+            "A man finds a lamp and rubs it, releasing a genie. The genie grants him three wishes. The man wishes for a "
+            "million dollars, and poof, a million dollars appear. He wishes for a luxury car, and poof, a car appears. "
+            "For his final wish, he asks to be irresistible to women. Poof, he's turned into a box of chocolates."
         ),
     },
     {
-        "name": "Laundry Basket Plot Twist",
+        "name": "The Parrot with a Foul Mouth",
         "bookNote": (
-            "Priya decided to fold laundry like a responsible adult, but the basket swallowed every matching sock she "
-            "thought she owned. She interrogated her washing machine, checked under the couch, and briefly suspected "
-            "her goldfish. Eventually she paired two socks that only kind of matched and declared mismatched confidence "
-            "the new trend for the entire apartment building."
+            "A woman buys a parrot that previously lived in a bar. The parrot constantly swears. She tries to teach it "
+            "polite words, but it keeps swearing. In frustration, she puts the parrot in the freezer for a few minutes. "
+            "When she takes it out, the parrot apologizes and asks, 'What did the chicken do?'"
         ),
     },
     {
-        "name": "Conference Call Cameo",
+        "name": "The Doctor's Diagnosis",
         "bookNote": (
-            "During a very serious quarterly meeting, Jonah carefully muted himself, nodded thoughtfully, and tried to "
-            "silently eat potato chips. His cat chose that moment to leap onto the keyboard, unmuting him and "
-            "broadcasting the crunchiest bite in company history. Leadership applauded his commitment to transparency "
-            "and asked for the brand of chips in the chat."
+            "A man goes to the doctor and says, 'Doctor, I think I'm a moth.' The doctor replies, 'You need a "
+            "psychiatrist, not a doctor.' The man says, 'I know, but your light was on.'"
         ),
     },
     {
-        "name": "Candle Scent Detective",
+        "name": "The Lawyer and the Farmer",
         "bookNote": (
-            "Rena hosted a cozy game night and promised a prize to whoever guessed the candle scent. Guesses ranged from "
-            "‘fresh optimism’ to ‘new shoe memories.’ When the label revealed vanilla bean, everyone gasped dramatically "
-            "and accused Rena of emotional misdirection. She handed out cookies, declared everyone correct, and retired "
-            "from candle-based contests forever."
+            "A lawyer and a farmer are sitting next to each other on a plane. The lawyer asks if the farmer wants to "
+            "play a game. The farmer declines, wanting to sleep. The lawyer insists, offering to pay the farmer $5 for "
+            "every question he can't answer, while the farmer only has to pay $1. The lawyer asks, 'What's the distance "
+            "between the Earth and the Moon?' The farmer hands over $1. The farmer asks, 'What goes up a hill with three "
+            "legs and comes down with four?' The lawyer is stumped, gives the farmer $5, and asks, 'What is it?' The "
+            "farmer hands over $1 and goes back to sleep."
         ),
     },
     {
-        "name": "Inbox Archaeologist",
+        "name": "The Forgetful Professor",
         "bookNote": (
-            "Dev opened his email to find a message he had sent himself six months ago titled IMPORTANT. Inside he had "
-            "written a single sentence: “Do not forget to breathe.” He spent ten minutes trying to decode the hidden "
-            "meaning, decided past Dev was either a philosopher or exhausted, and marked it complete with a triumphant "
-            "sigh."
+            "A professor was known for being absent-minded. One day, his wife said, 'Don't forget we're moving today.' "
+            "He promised to remember. Later, he returned to the old house and found it empty. Realizing his mistake, he "
+            "sat on the porch. A child passing by asked, 'Are you moving in?' The professor replied, 'No, I think I "
+            "already moved out.'"
         ),
     },
     {
-        "name": "Midnight Chef Symphony",
+        "name": "The Clever Dog",
         "bookNote": (
-            "Lara attempted a quiet midnight grilled cheese, confident she could cook without waking her roommates. "
-            "Instead she triggered the smoke alarm, serenaded the building with fan noises, and waved a dish towel like "
-            "a conductor embracing chaotic jazz. The sandwich survived, slightly toasted and very proud of its dramatic "
-            "debut."
+            "A man walked into a bar with his dog. The bartender said, 'No dogs allowed.' The man replied, 'But my dog "
+            "can talk!' Skeptical, the bartender asked, 'What's on top of a house?' The dog barked, 'Roof!' The "
+            "bartender, unimpressed, said, 'Get out!' As they left, the dog turned to his owner and said, 'Should I have "
+            "said ceiling?'"
         ),
     },
     {
-        "name": "Backpack Time Capsule",
+        "name": "The Broken Umbrella",
         "bookNote": (
-            "Andre cleaned his backpack for the first time since winter and discovered a fossilized granola bar, seven "
-            "pens without caps, and a heartfelt note reminding him to buy batteries. He framed the note as an artifact "
-            "from a wiser era and kept the granola bar as emergency motivation for future excavations."
+            "It was raining heavily when Jane left the house. She grabbed her umbrella and rushed outside. As soon as she "
+            "opened it, the wind turned it inside out! She tried to fix it, but the wind was too strong. Finally, she "
+            "gave up and walked in the rain, holding the broken umbrella like a modern art sculpture."
         ),
     },
     {
-        "name": "Grocery Cart Diplomacy",
+        "name": "The Talking Parrot",
         "bookNote": (
-            "Sonia promised herself she would only buy essentials, then steered her cart directly into the snack aisle "
-            "for what she called morale research. She negotiated with herself out loud, compromised on three flavors of "
-            "chips instead of five, and left a voice memo titled “do not shop hungry” that she will heroically ignore "
-            "next week."
+            "A man bought a parrot that was supposed to speak. After weeks of silence, he returned to the pet shop. The "
+            "shopkeeper asked, 'Did you buy a mirror for the parrot?' The man said no. 'That's the problem,' said the "
+            "shopkeeper. 'Parrots love to look at themselves and talk!' The man bought a mirror, and the parrot started "
+            "talking immediately."
         ),
     },
     {
-        "name": "Weather App Betrayal",
+        "name": "The Pink Socks",
         "bookNote": (
-            "Hector trusted his weather app, wore sunglasses, and packed sunscreen for the commute. Halfway to work, "
-            "rain erupted like a dramatic plot twist. He took shelter under a cafe awning, ordered hot chocolate, and "
-            "wrote a strongly worded letter to the clouds. The sun reappeared five minutes later, looking smug."
+            "John opened the package and found a pair of bright pink socks! Confused, he checked his order and realized "
+            "he had clicked the wrong item. Mary laughed when she saw the socks, and they both had a good laugh. John "
+            "decided to wear them anyway, and they became his lucky socks."
         ),
     },
     {
-        "name": "Dance Floor Daydream",
+        "name": "The Password Predicament",
         "bookNote": (
-            "Mia practiced her best dance moves in the hallway while waiting for laundry to finish. The elevator doors "
-            "opened unexpectedly, revealing a delivery driver applauding her interpretive spin. She bowed, collected her "
-            "package, and now refers to the hallway as Studio M whenever neighbors walk by."
+            "Mark set his new computer password as 'incorrect.' That way, if he forgot it, the system would prompt him, "
+            "'Your password is incorrect.' It worked like a charm until his colleague tried to log in and exclaimed, "
+            "'Your password is incorrect?' Mark grinned, 'Exactly!'"
         ),
     },
     {
-        "name": "Plant Parent Hotline",
+        "name": "The Time-Traveling Typo",
         "bookNote": (
-            "Theo worried his fern looked bored, so he read motivational quotes to it every morning. One day he spotted a "
-            "new leaf and immediately texted six friends to announce Fernando’s growth spurt. The group chat responded "
-            "with confetti emojis and unsolicited fertilizer tips, turning Theo into the proudest plant parent on the "
-            "block."
+            "Emma sent an email to her boss, intending to write, 'I'll have the report to you by tomorrow.' However, "
+            "autocorrect changed 'tomorrow' to 'yesterday.' Her boss replied, 'Impressive! Can you also predict next "
+            "week's lottery numbers?'"
         ),
     },
     {
-        "name": "Charging Cable Maze",
+        "name": "The Silent Treatment",
         "bookNote": (
-            "Harper opened her drawer of random cables to find the single charger that fit her aging tablet. Instead she "
-            "found a collection of mystery connectors, two headphones from 2011, and a dramatic sense of betrayal. She "
-            "labeled the drawer “tech archaeology” and now charges everything in the kitchen like a renegade."
+            "After a minor argument, Jake and his wife decided to give each other the silent treatment. That evening, Jake "
+            "needed his wife to wake him up at 6 AM for an early flight. Not wanting to break the silence, he wrote on a "
+            "piece of paper, 'Please wake me at 6 AM.' The next morning, he woke up at 9 AM and found a note beside him: "
+            "'It's 6 AM. Wake up.'"
         ),
     },
     {
-        "name": "Playlist Weather Report",
+        "name": "The Autocorrect Apology",
         "bookNote": (
-            "Gus lets his shuffled playlist determine the day’s mood. One morning he got three power ballads in a row and "
-            "announced a 90 percent chance of dramatic hair flips. By lunchtime the playlist switched to acoustic lull "
-            "abies, and he declared a nap advisory that nobody obeyed."
+            "Tom texted his friend, 'I'm sorry for the incontinence.' He meant 'inconvenience,' but autocorrect had other "
+            "plans. His friend replied, 'No worries, but maybe see a doctor about that.'"
         ),
     },
     {
-        "name": "Sticky Note Philosopher",
+        "name": "The Wi-Fi Password",
         "bookNote": (
-            "Lana covers her monitor with motivational sticky notes like “remember snacks” and “breathe more than coffee.” "
-            "When she ran out of space, she stuck one on her reusable water bottle saying “hydrate the thoughts.” Now she "
-            "walks into meetings armed with pastel wisdom and a notebook labeled Profound Scheduling."
+            "At a café, a customer asked for the Wi-Fi password. The barista replied, 'You need to buy a coffee first.' "
+            "The customer bought a coffee and asked again. The barista said, 'You need to buy a coffee first—all "
+            "lowercase, no spaces.'"
         ),
     },
     {
-        "name": "Window Meteorologist",
+        "name": "The Diet Dilemma",
         "bookNote": (
-            "Colin insists on forecasting weather by touching his apartment window. He declared Tuesday “brisk but "
-            "optimistic,” dressed in layers, and stepped outside into a humid wall of summer. He blamed the lying glass, "
-            "went back in for shorts, and started drafting an apology letter to his ceiling fan."
+            "Sarah decided to eat healthier and told her friend, 'I'm on a seafood diet.' Her friend replied, 'I thought "
+            "you were avoiding seafood.' Sarah laughed, 'No, I see food, and I eat it.'"
         ),
     },
     {
-        "name": "Pen Borrowing Economy",
+        "name": "The Job Interview",
         "bookNote": (
-            "Nadia lends pens with tiny contracts attached, yet still never gets them back. She started naming each pen "
-            "before lending it out, hoping sentimental guilt would help. Now everyone at the office proudly claims to be "
-            "co-parenting pens named Gerald, Dot, and Sparkle. Nadia has accepted her new role as stationary diplomat."
+            "During a job interview, the interviewer asked, 'What's your greatest weakness?' The candidate replied, "
+            "'Honesty.' The interviewer said, 'I don't think honesty is a weakness.' The candidate responded, 'I don't "
+            "care what you think.'"
         ),
     },
     {
-        "name": "Squeaky Chair Serenade",
+        "name": "The Library Lament",
         "bookNote": (
-            "Omar’s office chair squeaks a high note every time he leans forward, so he times important comments with the "
-            "sound for maximum dramatic effect. His teammates think he has a custom soundtrack. The chair recently added "
-            "a mysterious bass note, and now meetings feel suspiciously like rehearsals."
+            "A man walked into a library and asked the librarian, 'Where are the books on paranoia?' She whispered, "
+            "'They're right behind you.'"
         ),
     },
     {
-        "name": "Remote Control Detective",
+        "name": "The Coffee Conundrum",
         "bookNote": (
-            "Lena spent fifteen minutes searching for the TV remote, only to discover it balanced on top of the fridge "
-            "next to a half-eaten brownie. She held a brief courtroom session accusing her future self of sabotage. The "
-            "remote was acquitted, and the brownie was sentenced to immediate consumption."
+            "Every morning, Lisa ordered a 'grande' coffee at her local café. One day, feeling adventurous, she asked for "
+            "a 'venti.' The barista smiled and said, 'That's Italian for twenty. Are you sure you want twenty ounces of "
+            "caffeine?' Lisa laughed and replied, 'I guess I'll stick with my grande—I don't need to be that awake!'"
         ),
     },
     {
-        "name": "Commute Comedy Routine",
+        "name": "The Elevator Small Talk Escape",
         "bookNote": (
-            "Ben narrates his walk to work like a travel show host. He critiques puddles, compliments dogs on their "
-            "fashion choices, and interviews pigeons about city infrastructure. One morning a tourist applauded and asked "
-            "for the channel. Ben winked, promised new episodes daily, and kept pretending the sidewalk was a red carpet."
+            "John stepped into the elevator, dreading the inevitable small talk. As the doors closed, his colleague, "
+            "Sarah, asked, 'How was your weekend?' John, thinking quickly, replied, 'I spent it learning ventriloquism.' "
+            "He then threw his voice, making it seem like someone else in the elevator said, 'Please, no small talk.' "
+            "Sarah looked around, puzzled, and John enjoyed a quiet ride up."
         ),
     },
     {
-        "name": "Library Whisper Workout",
+        "name": "The Lost Phone",
         "bookNote": (
-            "Jade tried whispering during a video call at the library, forgetting that whispering while wearing "
-            "headphones sounds suspiciously like dramatic ASMR. Her teammates muted themselves to laugh while she "
-            "gestured wildly to assure them she was not being chased by book ghosts. She now schedules calls only near "
-            "the potted ficus, her official soundproof booth."
+            "Sarah spent ten minutes searching for her phone, calling it from her landline to hear it ring. She checked "
+            "under the couch, in the kitchen, and even in the refrigerator. Finally, she realized she was holding it in "
+            "her hand the entire time. She had been using it as a flashlight to search for it."
         ),
     },
     {
-        "name": "Dramatic Thermostat Summit",
+        "name": "The Unintended Text",
         "bookNote": (
-            "Roommates Ezra and Quinn hold weekly diplomatic summits over thermostat settings. Ezra arrives with charts, "
-            "Quinn arrives with blankets. After hours of negotiation they settle on a number neither can remember and end "
-            "up adjusting it again before breakfast. They now refer to the thermostat as The Negotiator."
+            "Mark sent a text complaining about his boss to his colleague. However, he accidentally sent it directly to "
+            "his boss. Fortunately, his boss had a sense of humor and replied, 'I think so too!'"
         ),
     },
     {
-        "name": "Gala Of Leftovers",
+        "name": "The Coffee Spill",
         "bookNote": (
-            "Tori hosted a leftover night, plated everything on fancy dishes, and gave dramatic speeches about reheated "
-            "lasagna. Her microwave beeped like a trumpet fanfare. By dessert, which consisted of half a brownie and a "
-            "single grape, everyone agreed it was the most glamorous refrigerator clean-out in neighborhood history."
+            "Lisa rushed to a morning meeting and decided to bring a cup of coffee. When she entered the meeting room, "
+            "she tripped and spilled coffee all over her boss's shirt. The room fell silent until her boss laughed and "
+            "said, 'I needed some caffeine too!'"
         ),
     },
     {
-        "name": "Notebook Overachiever",
+        "name": "The Auto-Correct Mishap",
         "bookNote": (
-            "Caleb buys a new notebook every time he has a fresh idea. Page one always gets filled with bullet points, "
-            "page two with doodles, and the remaining pages remain pristine monuments to potential. His friends staged an "
-            "intervention, gifting him a notebook titled “Finish Me.” Caleb is considering it."
+            "Tom texted his girlfriend, wanting to write 'I miss you,' but autocorrect changed it to 'I mess you.' His "
+            "girlfriend replied, 'Yes, you always mess me up!'"
         ),
     },
     {
-        "name": "Giant Tote Bag Mystery",
+        "name": "The Wrong Number",
         "bookNote": (
-            "Serena carries a tote bag that could legally qualify as a tiny apartment. Inside you will find snacks, three "
-            "umbrellas, a novel, and occasionally a stray sock. She insists everything has a purpose, though she once "
-            "pulled out a whisk during a staff meeting and simply said, “emergency morale tool.”"
+            "A man received a text message that said, 'I'm at the restaurant. Where are you?' He replied, 'I think you "
+            "have the wrong number.' The person texted back, 'Are you sure? This is my husband's number.' The man "
+            "replied, 'I'm very sure. I'm a single woman.'"
         ),
     },
     {
-        "name": "Calendar Time Traveler",
+        "name": "The Parking Ticket",
         "bookNote": (
-            "Hugh forgot to move last year’s calendar off the wall and only realized it when June mysteriously repeated "
-            "itself. He shrugged, declared bonus summer, and treated himself to popsicles. Eventually a neighbor pointed "
-            "out the mistake, and Hugh promised to embrace the actual timeline with minimal confusion."
+            "A man parked his car and saw a parking meter that said '2 hours free parking.' He was thrilled and went "
+            "shopping. When he returned, he found a parking ticket on his windshield. Confused, he read the meter again. "
+            "It actually said '2 hours free parking—if you pay for 3 hours.'"
         ),
     },
     {
-        "name": "Gaming Night Referee",
+        "name": "The Restaurant Order",
         "bookNote": (
-            "During board game night, Mei brought a referee whistle to keep her friends honest. She issued playful yellow "
-            "cards for excessive bragging and one dramatic red card when someone hid extra game pieces. The whistle has "
-            "since become part of every gathering, even quiet movie nights, just in case popcorn negotiations get heated."
+            "A man ordered a pizza and asked for extra cheese. When the pizza arrived, he was disappointed to see it had "
+            "no cheese at all. He called the restaurant to complain. The manager said, 'You asked for extra cheese, so we "
+            "gave you extra—on the side.'"
         ),
     },
     {
-        "name": "DIY Haircut Chronicles",
+        "name": "The Gym Membership",
         "bookNote": (
-            "Garrett decided to trim his own hair, watched two tutorials, and felt unstoppable until the mirror reflected "
-            "a lopsided masterpiece. He styled the longer side like a swooping cape and joined his video call with heroic "
-            "lighting. Coworkers applauded his bravery, and Garrett promised the sequel would involve professional "
-            "backup."
+            "A man signed up for a gym membership, excited to get in shape. On his first day, he walked in and saw a sign "
+            "that said 'Free pizza for new members!' He thought, 'This is the best gym ever!' Then he realized he was in "
+            "the wrong building—it was a pizza place next door."
         ),
     },
     {
-        "name": "Closet Light Show",
+        "name": "The Birthday Cake",
         "bookNote": (
-            "Every time Nina opens her closet, motion-sensor lights flicker dramatically, making her feel like a celebrity "
-            "entering stage left. She has started narrating her outfit choices in a British accent for added flair. The "
-            "cat watches from the doorway, clearly judging but secretly invested in the wardrobe plotline."
+            "A woman ordered a birthday cake that said 'Happy 30th Birthday!' When she picked it up, the cake said 'Happy "
+            "80th Birthday!' She called the bakery to complain. The baker said, 'I'm so sorry! I must have misread the "
+            "order. But look on the bright side—you look great for 80!'"
         ),
     },
     {
-        "name": "Mismatched Mug Meeting",
+        "name": "The Weather Forecast",
         "bookNote": (
-            "Oli collects mugs with obscure slogans. During a morning meeting his camera revealed one that read “Official "
-            "Pancake Inspector,” prompting the team to send him inspection forms. He obliged, reviewing everyone’s "
-            "breakfasts with serious eye squints and imaginary clipboards. Productivity was questionable, morale was "
-            "excellent."
+            "The weather forecast said it would be sunny all day. A man left his umbrella at home and went to work. "
+            "Halfway there, it started pouring rain. He called the weather service to complain. They said, 'We forecast "
+            "the weather, not control it!'"
         ),
     },
     {
-        "name": "Doorway Blank Mind",
+        "name": "The Missing Keys",
         "bookNote": (
-            "Tessa walked into the kitchen with purpose, forgot why, and stood very still like a statue gathering wisdom. "
-            "Her roommate asked if she was buffering. Tessa finally remembered she wanted cereal, grabbed a spoon, and "
-            "celebrated the small victory with a triumphant dance beside the fridge."
+            "A man spent an hour searching for his car keys. He looked in his pockets, under the couch, and even in the "
+            "refrigerator. Finally, his wife asked, 'Did you check your hand?' He looked down and saw the keys in his "
+            "hand the entire time. He had been holding them while searching for them."
         ),
     },
     {
-        "name": "Unexpected Parade Rehearsal",
+        "name": "The Alarm Clock",
         "bookNote": (
-            "Vic practiced playing the kazoo for an upcoming charity parade, unaware that the open window turned the "
-            "entire street into his audience. Neighbors peeked out, clapped along, and someone shouted for an encore. Vic "
-            "took a bow, promised wardrobe upgrades, and now refers to his living room as the rehearsal hall."
+            "A man set his alarm clock for 6 AM, but it didn't go off. He woke up at 8 AM and was late for work. When he "
+            "checked the alarm clock, he realized he had set it for 6 PM instead of 6 AM. He thought, 'Well, at least I'll "
+            "be on time for dinner.'"
         ),
     },
     {
-        "name": "Supermarket Compliment Patrol",
+        "name": "The Shopping List",
         "bookNote": (
-            "Riley wandered the grocery store complimenting strangers’ produce choices. She told one shopper their "
-            "watermelon looked heroic and congratulated another on brave bell peppers. The compliments started a chain "
-            "reaction, and soon half the aisle was praising each other’s carts. The store manager called it Tuesday."
+            "A woman wrote a shopping list: milk, eggs, bread, and butter. When she got to the store, she realized she had "
+            "forgotten the list at home. She called her husband and asked him to read it to her. He said, 'I can't find it. "
+            "Where did you leave it?' She replied, 'On the kitchen counter, next to the milk, eggs, bread, and butter.'"
         ),
     },
     {
-        "name": "Wi-Fi Password Poet",
+        "name": "The GPS Navigation",
         "bookNote": (
-            "Mina renamed the home Wi-Fi to “PleaseWaterThePlants” so roommates would remember chores. Instead, delivery "
-            "drivers left sticky notes saying the network name inspired them. She has since rotated passwords like “Fold "
-            "Laundry Maybe” and “TextYourGrandma,” turning tech support into motivational messaging."
+            "A man was following GPS directions to a restaurant. The GPS told him to turn left, but he turned right by "
+            "mistake. The GPS said, 'Recalculating route.' He turned around and went back. The GPS said, 'Recalculating "
+            "route.' He thought, 'This GPS is as confused as I am!'"
         ),
     },
     {
-        "name": "Desk Drawer Mystery",
+        "name": "The Restaurant Bill",
         "bookNote": (
-            "Jon keeps finding glitter in his desk drawer despite never owning glitter. He suspects a crafty ghost or "
-            "possibly the enthusiastic intern who loves scrapbooks. Rather than investigate, he simply signs every email "
-            "with a sparkly flourish to match the ambiance."
+            "A couple went to a restaurant and ordered dinner. When the bill came, the man was shocked to see it was $200. "
+            "He asked the waiter, 'Is this correct?' The waiter replied, 'Yes, sir. You ordered the most expensive items "
+            "on the menu.' The man said, 'I thought the prices were in cents, not dollars!'"
         ),
     },
     {
-        "name": "Puddle Jumping Commute",
+        "name": "The Movie Ticket",
         "bookNote": (
-            "When the sidewalk flooded, Kara decided to hop over puddles like an action hero. She landed with dramatic "
-            "flourishes, narrated her own slow-motion replay, and earned applause from a passing dog walker. The final "
-            "puddle soaked her completely, but she bowed anyway and declared victory on behalf of playful mornings."
+            "A man bought a movie ticket and went to see the film. Halfway through, he realized he was in the wrong "
+            "theater. He was watching a romantic comedy, but he had bought a ticket for an action movie. He thought, 'Well, "
+            "at least this movie is better than the one I paid for!'"
         ),
     },
     {
-        "name": "Late Night Philosophy Club",
+        "name": "The Dry Cleaner",
         "bookNote": (
-            "Oscar swore he would sleep early, then discovered a documentary about bees at midnight. He whispered "
-            "questions to the screen, took furious notes, and texted friends philosophical thoughts about honey "
-            "democracy. No one responded until morning, when they gently reminded him that sleep is also important."
+            "A man took his suit to the dry cleaner and asked them to remove a stain. When he picked it up, the stain was "
+            "gone, but there was a hole where the stain had been. He asked, 'What happened?' The dry cleaner said, 'We had "
+            "to cut it out. The stain was too stubborn.'"
         ),
     },
     {
-        "name": "Paper Towel Stage Show",
+        "name": "The Haircut",
         "bookNote": (
-            "Sasha replaced the paper towel roll and accidentally pulled the entire sheet like a magician revealing a "
-            "banner. Instead of rewinding it, she staged a miniature theater curtain for her countertop fruit bowl. Guests "
-            "now applaud before taking oranges."
+            "A man went to a barber and asked for a trim. The barber cut his hair too short. The man said, 'I asked for a "
+            "trim, not a buzz cut!' The barber replied, 'I'm sorry, but your hair was so long, I got carried away. But look "
+            "on the bright side—you'll save money on shampoo!'"
         ),
     },
     {
-        "name": "Phone Flashlight Expedition",
+        "name": "The Taxi Driver",
         "bookNote": (
-            "Ian used his phone flashlight to search for his phone, wandering around the apartment narrating the quest. "
-            "After five minutes he noticed his reflection holding the glowing device like a lantern. He bowed to himself, "
-            "declared the expedition successful, and wrote “remember pockets exist” on a sticky note."
+            "A man got into a taxi and told the driver his destination. The driver started driving in the opposite "
+            "direction. The man said, 'You're going the wrong way!' The driver replied, 'I know, but I'm new to this city. "
+            "I'm just exploring!'"
         ),
     },
     {
-        "name": "Closet Concert Series",
+        "name": "The Elevator",
         "bookNote": (
-            "Becca sings full concerts while picking outfits, using hangers as microphones. One morning she finished an "
-            "encore to find her roommate sitting cross-legged on the floor holding up a concert rating sign. Becca "
-            "accepted the imaginary trophy and promised backstage passes after laundry day."
+            "A man got into an elevator and pressed the button for the 10th floor. The elevator went up to the 15th floor "
+            "instead. He pressed the button again, and it went down to the 5th floor. He thought, 'This elevator has a mind "
+            "of its own!'"
         ),
     },
     {
-        "name": "Notebook Margin Doodles",
+        "name": "The Hotel Room",
         "bookNote": (
-            "During a long webinar, Felix doodled extravagant dragons in the margins of his notes. When the facilitator "
-            "asked him to share key takeaways, he held up a dragon labeled “burn out notifications.” The chat exploded "
-            "with laughter, and Felix earned the unofficial title of morale illustrator."
+            "A man checked into a hotel and was given room 101. When he opened the door, he saw another person already in "
+            "the room. He said, 'I'm sorry, I think there's been a mistake.' The other person said, 'No mistake. This is my "
+            "room. You must have the wrong number.' The man checked his key card—it said room 110."
         ),
     },
     {
-        "name": "Microwave Countdown Drama",
+        "name": "The Package Delivery",
         "bookNote": (
-            "Jules treats the microwave countdown like a suspense thriller, refusing to let it beep. She sprints across "
-            "the kitchen to stop it at exactly one second, pumping her fists in victory. Her smartwatch thinks she is "
-            "doing interval training and keeps congratulating her for daily heroics."
+            "A man was expecting a package delivery. The delivery person left a note saying, 'Package delivered to your "
+            "neighbor.' The man went to his neighbor's house to get the package. His neighbor said, 'I don't have your "
+            "package. I think the delivery person got the wrong address.'"
         ),
     },
     {
-        "name": "Doorbell Costume Party",
+        "name": "The ATM Machine",
         "bookNote": (
-            "Whenever the doorbell rings, Marco throws on the first costume he finds from his theater days. Delivery "
-            "drivers never know if a pirate, astronaut, or Victorian poet will sign for the package. Reviews consistently "
-            "mention prompt payment and outstanding dedication to bit comedy."
+            "A man went to an ATM to withdraw money. He inserted his card and entered his PIN. The machine said, 'Insufficient "
+            "funds.' He thought, 'That's strange. I just deposited money yesterday.' Then he realized he was using his "
+            "credit card instead of his debit card."
         ),
     },
     {
-        "name": "Morning Mirror Pep Talk",
+        "name": "The Coffee Shop",
         "bookNote": (
-            "Skye gives herself a pep talk every morning using a tiny travel mirror. One day she dropped it, caught it "
-            "with a dramatic flourish, and cheered for her own reflexes. The pep talk turned into a spontaneous dance "
-            "party with toothpaste foam providing stage fog."
+            "A man ordered a large coffee at a coffee shop. The barista gave him a small coffee instead. He said, 'I ordered "
+            "a large coffee.' The barista replied, 'I'm sorry, but we're out of large cups. This is the largest we have.' "
+            "The man thought, 'Then why do you have a large option on the menu?'"
         ),
     },
     {
-        "name": "Desk Plant News Network",
+        "name": "The Parking Space",
         "bookNote": (
-            "Luca updates his desk plant on daily headlines to keep it in the loop. He reports on weather, coffee "
-            "shortages, and the thrilling saga of his inbox. The plant recently sprouted a new leaf, which Luca interprets "
-            "as a request for sports coverage."
+            "A man found a parking space and started to park his car. Another car pulled in from the other side and took the "
+            "space. The man said, 'I was here first!' The other driver said, 'I don't see your name on it!' The man "
+            "replied, 'I don't see yours either!'"
         ),
     },
     {
-        "name": "Forgotten Lunch Adventure",
+        "name": "The Grocery Store",
         "bookNote": (
-            "Dana packed lunch, left it by the door, and realized the mistake only after bragging about homemade pesto at "
-            "work. She transformed the oversight into a scavenger hunt, trading snacks with coworkers until she built an "
-            "impressive sampler platter. The pesto enjoyed a nice day off at home."
+            "A man went to the grocery store to buy milk. He walked up and down the aisles but couldn't find it. He asked a "
+            "store employee, 'Where is the milk?' The employee said, 'It's in the dairy section, aisle 3.' The man said, "
+            "'I'm in aisle 3, and I don't see it.' The employee said, 'That's because you're in the frozen food section.'"
         ),
     },
     {
-        "name": "Closet Light Applause",
+        "name": "The Doctor's Appointment",
         "bookNote": (
-            "Whenever Rowan flips on the closet light, the motion sensor beams like a spotlight. Rowan bows, narrates the "
-            "outfit selection, and thanks the invisible audience. Laundry day now feels like a matinee performance with "
-            "sock encores."
+            "A man made a doctor's appointment for 2 PM. He arrived at 2:30 PM and was told he was late. He said, 'I'm only "
+            "30 minutes late.' The receptionist said, 'Yes, but your appointment was for 2 PM, not 2:30 PM.' The man "
+            "replied, 'I know, but I thought doctors were always running late, so I thought I'd be on time if I came late!'"
         ),
     },
     {
-        "name": "Overprepared Picnic Trio",
+        "name": "The Restaurant Reservation",
         "bookNote": (
-            "Three friends planned a simple picnic, then each arrived with enough snacks to feed a marching band. They "
-            "arranged everything into courses, invented fancy menu names, and invited curious squirrels as guest judges. "
-            "The squirrels stole a cracker, which everyone considered a glowing review."
+            "A couple made a restaurant reservation for 7 PM. When they arrived, the restaurant was closed. They called the "
+            "restaurant and asked why it was closed. The manager said, 'We're closed on Mondays.' The couple said, 'But "
+            "today is Tuesday!' The manager replied, 'I know, but we're still closed.'"
         ),
     },
     {
-        "name": "Staircase Motivational Speech",
+        "name": "The Movie Theater",
         "bookNote": (
-            "While climbing six flights, Arman gave himself a motivational speech out loud, complete with inspirational "
-            "quotes and dramatic pauses. Halfway up he realized a neighbor was trailing behind, silently cheering. They "
-            "finished the stairs together like a victorious marathon team."
+            "A man went to a movie theater and bought a ticket. When he entered the theater, he saw that the movie had "
+            "already started. He asked an usher, 'When did the movie start?' The usher said, 'About 20 minutes ago.' The "
+            "man said, 'But the ticket says 7 PM!' The usher replied, 'Yes, but the movie started at 6:40 PM.'"
         ),
     },
     {
-        "name": "DIY Award Ceremony",
+        "name": "The Gas Station",
         "bookNote": (
-            "Lily created a weekly award show for everyday accomplishments. She gives herself trophies made of cereal "
-            "boxes for feats like remembering laundry or resisting online sales. Acceptance speeches happen in the mirror, "
-            "and the applause button is a wooden spoon tapping a bowl."
-        ),
-    },
-    {
-        "name": "Neighborhood Compliment Walk",
-        "bookNote": (
-            "Sam takes evening walks dedicated to complimenting anything he sees. He congratulates porch pumpkins on their "
-            "posture, applauds tidy hedges, and tells lampposts they are glowing examples of dedication. Neighbors now "
-            "time their gardening to coincide with his cheerful commentary."
-        ),
-    },
-    {
-        "name": "Impromptu Kitchen Parade",
-        "bookNote": (
-            "Poppy turned cooking dinner into a parade by marching around the kitchen banging wooden spoons on pots. "
-            "Roommates joined with spatulas and reusable containers as makeshift drums. The pasta boiled over during the "
-            "grand finale, which everyone applauded as an avant-garde steam effect."
+            "A man pulled into a gas station and asked the attendant to fill up his car. The attendant said, 'I'm sorry, but "
+            "we're out of gas.' The man said, 'But you're a gas station!' The attendant replied, 'I know, but we ran out "
+            "this morning. The delivery truck is late.'"
         ),
     },
 ]

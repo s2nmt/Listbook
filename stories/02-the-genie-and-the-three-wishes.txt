@@ -1,0 +1,6 @@
+{
+  "name": "The Genie and the Three Wishes",
+  "bookNote": "A man finds a lamp and rubs it, releasing a genie. The genie grants him three wishes. The man wishes for a million dollars, and poof, a million dollars appear. He wishes for a luxury car, and poof, a car appears. For his final wish, he asks to be irresistible to women. Poof, he's turned into a box of chocolates.",
+  "bookSections": [],
+  "chapters": []
+}

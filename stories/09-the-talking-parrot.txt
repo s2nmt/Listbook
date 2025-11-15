@@ -1,0 +1,6 @@
+{
+  "name": "The Talking Parrot",
+  "bookNote": "A man bought a parrot that was supposed to speak. After weeks of silence, he returned to the pet shop. The shopkeeper asked, 'Did you buy a mirror for the parrot?' The man said no. 'That's the problem,' said the shopkeeper. 'Parrots love to look at themselves and talk!' The man bought a mirror, and the parrot started talking immediately.",
+  "bookSections": [],
+  "chapters": []
+}

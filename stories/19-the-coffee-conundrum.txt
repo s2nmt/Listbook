@@ -1,0 +1,6 @@
+{
+  "name": "The Coffee Conundrum",
+  "bookNote": "Every morning, Lisa ordered a 'grande' coffee at her local café. One day, feeling adventurous, she asked for a 'venti.' The barista smiled and said, 'That's Italian for twenty. Are you sure you want twenty ounces of caffeine?' Lisa laughed and replied, 'I guess I'll stick with my grande—I don't need to be that awake!'",
+  "bookSections": [],
+  "chapters": []
+}

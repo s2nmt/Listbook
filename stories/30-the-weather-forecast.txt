@@ -1,0 +1,6 @@
+{
+  "name": "The Weather Forecast",
+  "bookNote": "The weather forecast said it would be sunny all day. A man left his umbrella at home and went to work. Halfway there, it started pouring rain. He called the weather service to complain. They said, 'We forecast the weather, not control it!'",
+  "bookSections": [],
+  "chapters": []
+}

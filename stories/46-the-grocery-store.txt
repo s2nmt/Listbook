@@ -1,0 +1,6 @@
+{
+  "name": "The Grocery Store",
+  "bookNote": "A man went to the grocery store to buy milk. He walked up and down the aisles but couldn't find it. He asked a store employee, 'Where is the milk?' The employee said, 'It's in the dairy section, aisle 3.' The man said, 'I'm in aisle 3, and I don't see it.' The employee said, 'That's because you're in the frozen food section.'",
+  "bookSections": [],
+  "chapters": []
+}

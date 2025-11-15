@@ -1,0 +1,6 @@
+{
+  "name": "The Lawyer and the Farmer",
+  "bookNote": "A lawyer and a farmer are sitting next to each other on a plane. The lawyer asks if the farmer wants to play a game. The farmer declines, wanting to sleep. The lawyer insists, offering to pay the farmer $5 for every question he can't answer, while the farmer only has to pay $1. The lawyer asks, 'What's the distance between the Earth and the Moon?' The farmer hands over $1. The farmer asks, 'What goes up a hill with three legs and comes down with four?' The lawyer is stumped, gives the farmer $5, and asks, 'What is it?' The farmer hands over $1 and goes back to sleep.",
+  "bookSections": [],
+  "chapters": []
+}

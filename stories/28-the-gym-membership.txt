@@ -1,0 +1,6 @@
+{
+  "name": "The Gym Membership",
+  "bookNote": "A man signed up for a gym membership, excited to get in shape. On his first day, he walked in and saw a sign that said 'Free pizza for new members!' He thought, 'This is the best gym ever!' Then he realized he was in the wrong building—it was a pizza place next door.",
+  "bookSections": [],
+  "chapters": []
+}

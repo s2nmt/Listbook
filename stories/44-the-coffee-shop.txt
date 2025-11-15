@@ -1,0 +1,6 @@
+{
+  "name": "The Coffee Shop",
+  "bookNote": "A man ordered a large coffee at a coffee shop. The barista gave him a small coffee instead. He said, 'I ordered a large coffee.' The barista replied, 'I'm sorry, but we're out of large cups. This is the largest we have.' The man thought, 'Then why do you have a large option on the menu?'",
+  "bookSections": [],
+  "chapters": []
+}

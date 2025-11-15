@@ -1,0 +1,6 @@
+{
+  "name": "The Parking Ticket",
+  "bookNote": "A man parked his car and saw a parking meter that said '2 hours free parking.' He was thrilled and went shopping. When he returned, he found a parking ticket on his windshield. Confused, he read the meter again. It actually said '2 hours free parking—if you pay for 3 hours.'",
+  "bookSections": [],
+  "chapters": []
+}

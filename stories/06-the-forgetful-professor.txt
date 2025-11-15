@@ -1,0 +1,6 @@
+{
+  "name": "The Forgetful Professor",
+  "bookNote": "A professor was known for being absent-minded. One day, his wife said, 'Don't forget we're moving today.' He promised to remember. Later, he returned to the old house and found it empty. Realizing his mistake, he sat on the porch. A child passing by asked, 'Are you moving in?' The professor replied, 'No, I think I already moved out.'",
+  "bookSections": [],
+  "chapters": []
+}

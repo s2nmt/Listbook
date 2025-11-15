@@ -1,0 +1,6 @@
+{
+  "name": "The Haircut",
+  "bookNote": "A man went to a barber and asked for a trim. The barber cut his hair too short. The man said, 'I asked for a trim, not a buzz cut!' The barber replied, 'I'm sorry, but your hair was so long, I got carried away. But look on the bright side—you'll save money on shampoo!'",
+  "bookSections": [],
+  "chapters": []
+}

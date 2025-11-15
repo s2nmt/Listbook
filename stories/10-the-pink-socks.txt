@@ -1,0 +1,6 @@
+{
+  "name": "The Pink Socks",
+  "bookNote": "John opened the package and found a pair of bright pink socks! Confused, he checked his order and realized he had clicked the wrong item. Mary laughed when she saw the socks, and they both had a good laugh. John decided to wear them anyway, and they became his lucky socks.",
+  "bookSections": [],
+  "chapters": []
+}

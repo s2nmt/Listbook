@@ -1,0 +1,6 @@
+{
+  "name": "The Coffee Spill",
+  "bookNote": "Lisa rushed to a morning meeting and decided to bring a cup of coffee. When she entered the meeting room, she tripped and spilled coffee all over her boss's shirt. The room fell silent until her boss laughed and said, 'I needed some caffeine too!'",
+  "bookSections": [],
+  "chapters": []
+}

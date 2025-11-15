@@ -1,0 +1,6 @@
+{
+  "name": "The Clever Dog",
+  "bookNote": "A man walked into a bar with his dog. The bartender said, 'No dogs allowed.' The man replied, 'But my dog can talk!' Skeptical, the bartender asked, 'What's on top of a house?' The dog barked, 'Roof!' The bartender, unimpressed, said, 'Get out!' As they left, the dog turned to his owner and said, 'Should I have said ceiling?'",
+  "bookSections": [],
+  "chapters": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "The Taxi Driver",
+  "bookNote": "A man got into a taxi and told the driver his destination. The driver started driving in the opposite direction. The man said, 'You're going the wrong way!' The driver replied, 'I know, but I'm new to this city. I'm just exploring!'",
+  "bookSections": [],
+  "chapters": []
+}

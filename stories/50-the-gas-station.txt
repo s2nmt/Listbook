@@ -1,0 +1,6 @@
+{
+  "name": "The Gas Station",
+  "bookNote": "A man pulled into a gas station and asked the attendant to fill up his car. The attendant said, 'I'm sorry, but we're out of gas.' The man said, 'But you're a gas station!' The attendant replied, 'I know, but we ran out this morning. The delivery truck is late.'",
+  "bookSections": [],
+  "chapters": []
+}

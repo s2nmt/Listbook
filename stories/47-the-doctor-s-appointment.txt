@@ -1,0 +1,6 @@
+{
+  "name": "The Doctor's Appointment",
+  "bookNote": "A man made a doctor's appointment for 2 PM. He arrived at 2:30 PM and was told he was late. He said, 'I'm only 30 minutes late.' The receptionist said, 'Yes, but your appointment was for 2 PM, not 2:30 PM.' The man replied, 'I know, but I thought doctors were always running late, so I thought I'd be on time if I came late!'",
+  "bookSections": [],
+  "chapters": []
+}

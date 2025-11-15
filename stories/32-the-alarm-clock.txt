@@ -1,0 +1,6 @@
+{
+  "name": "The Alarm Clock",
+  "bookNote": "A man set his alarm clock for 6 AM, but it didn't go off. He woke up at 8 AM and was late for work. When he checked the alarm clock, he realized he had set it for 6 PM instead of 6 AM. He thought, 'Well, at least I'll be on time for dinner.'",
+  "bookSections": [],
+  "chapters": []
+}

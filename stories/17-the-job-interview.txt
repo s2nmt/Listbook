@@ -1,0 +1,6 @@
+{
+  "name": "The Job Interview",
+  "bookNote": "During a job interview, the interviewer asked, 'What's your greatest weakness?' The candidate replied, 'Honesty.' The interviewer said, 'I don't think honesty is a weakness.' The candidate responded, 'I don't care what you think.'",
+  "bookSections": [],
+  "chapters": []
+}

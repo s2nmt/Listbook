@@ -1,0 +1,6 @@
+{
+  "name": "The Doctor's Diagnosis",
+  "bookNote": "A man goes to the doctor and says, 'Doctor, I think I'm a moth.' The doctor replies, 'You need a psychiatrist, not a doctor.' The man says, 'I know, but your light was on.'",
+  "bookSections": [],
+  "chapters": []
+}

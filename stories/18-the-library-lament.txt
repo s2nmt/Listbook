@@ -1,0 +1,6 @@
+{
+  "name": "The Library Lament",
+  "bookNote": "A man walked into a library and asked the librarian, 'Where are the books on paranoia?' She whispered, 'They're right behind you.'",
+  "bookSections": [],
+  "chapters": []
+}

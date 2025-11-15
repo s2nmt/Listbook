@@ -1,0 +1,6 @@
+{
+  "name": "The Movie Theater",
+  "bookNote": "A man went to a movie theater and bought a ticket. When he entered the theater, he saw that the movie had already started. He asked an usher, 'When did the movie start?' The usher said, 'About 20 minutes ago.' The man said, 'But the ticket says 7 PM!' The usher replied, 'Yes, but the movie started at 6:40 PM.'",
+  "bookSections": [],
+  "chapters": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "The Wrong Number",
+  "bookNote": "A man received a text message that said, 'I'm at the restaurant. Where are you?' He replied, 'I think you have the wrong number.' The person texted back, 'Are you sure? This is my husband's number.' The man replied, 'I'm very sure. I'm a single woman.'",
+  "bookSections": [],
+  "chapters": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "The Restaurant Order",
+  "bookNote": "A man ordered a pizza and asked for extra cheese. When the pizza arrived, he was disappointed to see it had no cheese at all. He called the restaurant to complain. The manager said, 'You asked for extra cheese, so we gave you extra—on the side.'",
+  "bookSections": [],
+  "chapters": []
+}

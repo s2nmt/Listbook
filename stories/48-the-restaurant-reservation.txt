@@ -1,0 +1,6 @@
+{
+  "name": "The Restaurant Reservation",
+  "bookNote": "A couple made a restaurant reservation for 7 PM. When they arrived, the restaurant was closed. They called the restaurant and asked why it was closed. The manager said, 'We're closed on Mondays.' The couple said, 'But today is Tuesday!' The manager replied, 'I know, but we're still closed.'",
+  "bookSections": [],
+  "chapters": []
+}

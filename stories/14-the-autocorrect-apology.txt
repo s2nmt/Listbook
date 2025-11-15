@@ -1,0 +1,6 @@
+{
+  "name": "The Autocorrect Apology",
+  "bookNote": "Tom texted his friend, 'I'm sorry for the incontinence.' He meant 'inconvenience,' but autocorrect had other plans. His friend replied, 'No worries, but maybe see a doctor about that.'",
+  "bookSections": [],
+  "chapters": []
+}

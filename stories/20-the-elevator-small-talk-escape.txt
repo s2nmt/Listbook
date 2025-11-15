@@ -1,0 +1,6 @@
+{
+  "name": "The Elevator Small Talk Escape",
+  "bookNote": "John stepped into the elevator, dreading the inevitable small talk. As the doors closed, his colleague, Sarah, asked, 'How was your weekend?' John, thinking quickly, replied, 'I spent it learning ventriloquism.' He then threw his voice, making it seem like someone else in the elevator said, 'Please, no small talk.' Sarah looked around, puzzled, and John enjoyed a quiet ride up.",
+  "bookSections": [],
+  "chapters": []
+}

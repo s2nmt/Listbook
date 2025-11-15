@@ -1,0 +1,6 @@
+{
+  "name": "The Talking Dog",
+  "bookNote": "A man sees a sign: 'Talking Dog for Sale.' He rings the bell and the owner tells him the dog is in the backyard. The man asks the dog, 'Can you talk?' 'Yep,' the dog replies. 'I worked for the CIA, traveling the world. Now I'm retired.' Amazed, the man asks the owner how much. The owner says, 'Ten dollars.' 'Why so cheap?' The owner replies, 'He's a liar. He never did any of that.'",
+  "bookSections": [],
+  "chapters": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "The Auto-Correct Mishap",
+  "bookNote": "Tom texted his girlfriend, wanting to write 'I miss you,' but autocorrect changed it to 'I mess you.' His girlfriend replied, 'Yes, you always mess me up!'",
+  "bookSections": [],
+  "chapters": []
+}

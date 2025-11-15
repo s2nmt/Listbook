@@ -1,0 +1,6 @@
+{
+  "name": "The Unintended Text",
+  "bookNote": "Mark sent a text complaining about his boss to his colleague. However, he accidentally sent it directly to his boss. Fortunately, his boss had a sense of humor and replied, 'I think so too!'",
+  "bookSections": [],
+  "chapters": []
+}

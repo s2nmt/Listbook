@@ -1,0 +1,6 @@
+{
+  "name": "The Hotel Room",
+  "bookNote": "A man checked into a hotel and was given room 101. When he opened the door, he saw another person already in the room. He said, 'I'm sorry, I think there's been a mistake.' The other person said, 'No mistake. This is my room. You must have the wrong number.' The man checked his key card—it said room 110.",
+  "bookSections": [],
+  "chapters": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "The GPS Navigation",
+  "bookNote": "A man was following GPS directions to a restaurant. The GPS told him to turn left, but he turned right by mistake. The GPS said, 'Recalculating route.' He turned around and went back. The GPS said, 'Recalculating route.' He thought, 'This GPS is as confused as I am!'",
+  "bookSections": [],
+  "chapters": []
+}

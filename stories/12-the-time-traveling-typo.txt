@@ -1,0 +1,6 @@
+{
+  "name": "The Time-Traveling Typo",
+  "bookNote": "Emma sent an email to her boss, intending to write, 'I'll have the report to you by tomorrow.' However, autocorrect changed 'tomorrow' to 'yesterday.' Her boss replied, 'Impressive! Can you also predict next week's lottery numbers?'",
+  "bookSections": [],
+  "chapters": []
+}

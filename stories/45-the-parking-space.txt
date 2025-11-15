@@ -1,0 +1,6 @@
+{
+  "name": "The Parking Space",
+  "bookNote": "A man found a parking space and started to park his car. Another car pulled in from the other side and took the space. The man said, 'I was here first!' The other driver said, 'I don't see your name on it!' The man replied, 'I don't see yours either!'",
+  "bookSections": [],
+  "chapters": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "The Package Delivery",
+  "bookNote": "A man was expecting a package delivery. The delivery person left a note saying, 'Package delivered to your neighbor.' The man went to his neighbor's house to get the package. His neighbor said, 'I don't have your package. I think the delivery person got the wrong address.'",
+  "bookSections": [],
+  "chapters": []
+}

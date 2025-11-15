@@ -1,0 +1,6 @@
+{
+  "name": "The Birthday Cake",
+  "bookNote": "A woman ordered a birthday cake that said 'Happy 30th Birthday!' When she picked it up, the cake said 'Happy 80th Birthday!' She called the bakery to complain. The baker said, 'I'm so sorry! I must have misread the order. But look on the bright side—you look great for 80!'",
+  "bookSections": [],
+  "chapters": []
+}

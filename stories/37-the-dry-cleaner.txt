@@ -1,0 +1,6 @@
+{
+  "name": "The Dry Cleaner",
+  "bookNote": "A man took his suit to the dry cleaner and asked them to remove a stain. When he picked it up, the stain was gone, but there was a hole where the stain had been. He asked, 'What happened?' The dry cleaner said, 'We had to cut it out. The stain was too stubborn.'",
+  "bookSections": [],
+  "chapters": []
+}
