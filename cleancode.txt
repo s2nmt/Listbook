@@ -1,32 +1,13 @@
 {
   "name": "Clean Code",
-  "bookNote": "Ghi chú cấp book (có thể bỏ trống).",
-  "bookSections": [
-    {
-      "title": "Section trực tiếp dưới book",
-      "note": "Nội dung section này."
-    }
-  ],
+  "bookSections": [],
   "chapters": [
     {
-      "title": "Chapter 1",
+      "title": "213123",
       "sections": [
         {
-          "title": "Section 1.1",
-          "note": "Nội dung 1.1"
-        },
-        {
-          "title": "Section 1.2",
-          "note": "Nội dung 1.2"
-        }
-      ]
-    },
-    {
-      "title": "Chapter 2",
-      "sections": [
-        {
-          "title": "Section 2.1",
-          "note": ""
+          "title": "123213",
+          "note": "234234324"
         }
       ]
     }
