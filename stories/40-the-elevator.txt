@@ -1,6 +1,9 @@
 {
   "name": "The Elevator",
-  "bookNote": "A man got into an elevator and pressed the button for the 10th floor. The elevator went up to the 15th floor instead. He pressed the button again, and it went down to the 5th floor. He thought, 'This elevator has a mind of its own!'",
+  "bookNote": {
+    "en": "A man got into an elevator and pressed the button for the 10th floor. The elevator went up to the 15th floor instead. He pressed the button again, and it went down to the 5th floor. He thought, 'This elevator has a mind of its own!'",
+    "vi": "Một người đàn ông bước vào thang máy và nhấn nút tầng 10. Thang máy đi lên tầng 15 thay vì. Anh nhấn nút lại, và nó đi xuống tầng 5. Anh nghĩ, 'Thang máy này có tâm trí riêng của nó!'"
+  },
   "bookSections": [],
   "chapters": []
 }

@@ -1,6 +1,9 @@
 {
   "name": "The Library Lament",
-  "bookNote": "A man walked into a library and asked the librarian, 'Where are the books on paranoia?' She whispered, 'They're right behind you.'",
+  "bookNote": {
+    "en": "A man walked into a library and asked the librarian, 'Where are the books on paranoia?' She whispered, 'They're right behind you.'",
+    "vi": "Một người đàn ông bước vào thư viện và hỏi thủ thư, 'Sách về chứng hoang tưởng ở đâu?' Cô ấy thì thầm, 'Chúng ở ngay sau lưng anh.'"
+  },
   "bookSections": [],
   "chapters": []
 }

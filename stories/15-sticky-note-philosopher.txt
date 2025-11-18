@@ -1,6 +1,0 @@
-{
-  "name": "Sticky Note Philosopher",
-  "bookNote": "Lana covers her monitor with motivational sticky notes like “remember snacks” and “breathe more than coffee.” When she ran out of space, she stuck one on her reusable water bottle saying “hydrate the thoughts.” Now she walks into meetings armed with pastel wisdom and a notebook labeled Profound Scheduling.",
-  "bookSections": [],
-  "chapters": []
-}

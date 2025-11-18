@@ -1,6 +1,9 @@
 {
   "name": "The Restaurant Bill",
-  "bookNote": "A couple went to a restaurant and ordered dinner. When the bill came, the man was shocked to see it was $200. He asked the waiter, 'Is this correct?' The waiter replied, 'Yes, sir. You ordered the most expensive items on the menu.' The man said, 'I thought the prices were in cents, not dollars!'",
+  "bookNote": {
+    "en": "A couple went to a restaurant and ordered dinner. When the bill came, the man was shocked to see it was $200. He asked the waiter, 'Is this correct?' The waiter replied, 'Yes, sir. You ordered the most expensive items on the menu.' The man said, 'I thought the prices were in cents, not dollars!'",
+    "vi": "Một cặp đôi đến nhà hàng và gọi bữa tối. Khi hóa đơn đến, người đàn ông sốc khi thấy nó là 200 đô. Anh hỏi người phục vụ, 'Có đúng không?' Người phục vụ trả lời, 'Vâng, thưa ông. Ông đã gọi những món đắt nhất trong thực đơn.' Người đàn ông nói, 'Tôi nghĩ giá tính bằng xu, không phải đô la!'"
+  },
   "bookSections": [],
   "chapters": []
 }

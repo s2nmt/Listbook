@@ -1,6 +1,9 @@
 {
   "name": "The Lawyer and the Farmer",
-  "bookNote": "A lawyer and a farmer are sitting next to each other on a plane. The lawyer asks if the farmer wants to play a game. The farmer declines, wanting to sleep. The lawyer insists, offering to pay the farmer $5 for every question he can't answer, while the farmer only has to pay $1. The lawyer asks, 'What's the distance between the Earth and the Moon?' The farmer hands over $1. The farmer asks, 'What goes up a hill with three legs and comes down with four?' The lawyer is stumped, gives the farmer $5, and asks, 'What is it?' The farmer hands over $1 and goes back to sleep.",
+  "bookNote": {
+    "en": "A lawyer and a farmer are sitting next to each other on a plane. The lawyer asks if the farmer wants to play a game. The farmer declines, wanting to sleep. The lawyer insists, offering to pay the farmer $5 for every question he can't answer, while the farmer only has to pay $1. The lawyer asks, 'What's the distance between the Earth and the Moon?' The farmer hands over $1. The farmer asks, 'What goes up a hill with three legs and comes down with four?' The lawyer is stumped, gives the farmer $5, and asks, 'What is it?' The farmer hands over $1 and goes back to sleep.",
+    "vi": "Một giáo sư nổi tiếng vì hay quên. Một ngày, vợ ông nói, 'Đừng quên hôm nay chúng ta chuyển nhà.' Ông hứa sẽ nhớ. Sau đó, ông trở về ngôi nhà cũ và thấy nó trống rỗng. Nhận ra sai lầm, ông ngồi trên hiên nhà. Một đứa trẻ đi ngang hỏi, 'Ông đang chuyển đến à?' Giáo sư trả lời, 'Không, tôi nghĩ tôi đã chuyển đi rồi.'"
+  },
   "bookSections": [],
   "chapters": []
 }

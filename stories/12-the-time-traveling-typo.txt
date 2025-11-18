@@ -1,6 +1,9 @@
 {
   "name": "The Time-Traveling Typo",
-  "bookNote": "Emma sent an email to her boss, intending to write, 'I'll have the report to you by tomorrow.' However, autocorrect changed 'tomorrow' to 'yesterday.' Her boss replied, 'Impressive! Can you also predict next week's lottery numbers?'",
+  "bookNote": {
+    "en": "Emma sent an email to her boss, intending to write, 'I'll have the report to you by tomorrow.' However, autocorrect changed 'tomorrow' to 'yesterday.' Her boss replied, 'Impressive! Can you also predict next week's lottery numbers?'",
+    "vi": "Sau một cuộc cãi vã nhỏ, Jake và vợ quyết định im lặng với nhau. Tối hôm đó, Jake cần vợ đánh thức anh dậy lúc 6 giờ sáng cho chuyến bay sớm. Không muốn phá vỡ sự im lặng, anh viết trên một mảnh giấy, 'Làm ơn đánh thức tôi lúc 6 giờ sáng.' Sáng hôm sau, anh thức dậy lúc 9 giờ sáng và tìm thấy một mảnh giấy bên cạnh: 'Bây giờ là 6 giờ sáng. Thức dậy đi.'"
+  },
   "bookSections": [],
   "chapters": []
 }

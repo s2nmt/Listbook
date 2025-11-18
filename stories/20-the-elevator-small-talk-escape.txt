@@ -1,6 +1,9 @@
 {
   "name": "The Elevator Small Talk Escape",
-  "bookNote": "John stepped into the elevator, dreading the inevitable small talk. As the doors closed, his colleague, Sarah, asked, 'How was your weekend?' John, thinking quickly, replied, 'I spent it learning ventriloquism.' He then threw his voice, making it seem like someone else in the elevator said, 'Please, no small talk.' Sarah looked around, puzzled, and John enjoyed a quiet ride up.",
+  "bookNote": {
+    "en": "John stepped into the elevator, dreading the inevitable small talk. As the doors closed, his colleague, Sarah, asked, 'How was your weekend?' John, thinking quickly, replied, 'I spent it learning ventriloquism.' He then threw his voice, making it seem like someone else in the elevator said, 'Please, no small talk.' Sarah looked around, puzzled, and John enjoyed a quiet ride up.",
+    "vi": "John bước vào thang máy, lo sợ cuộc trò chuyện nhỏ không thể tránh khỏi. Khi cửa đóng lại, đồng nghiệp của anh, Sarah, hỏi, 'Cuối tuần của bạn thế nào?' John, suy nghĩ nhanh, trả lời, 'Tôi dành nó để học thuật nói tiếng bụng.' Sau đó anh ném giọng nói, làm như có người khác trong thang máy nói, 'Làm ơn, không nói chuyện nhỏ.' Sarah nhìn xung quanh, bối rối, và John tận hưởng một chuyến đi yên tĩnh lên."
+  },
   "bookSections": [],
   "chapters": []
 }

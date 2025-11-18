@@ -1,6 +1,9 @@
 {
   "name": "The Hotel Room",
-  "bookNote": "A man checked into a hotel and was given room 101. When he opened the door, he saw another person already in the room. He said, 'I'm sorry, I think there's been a mistake.' The other person said, 'No mistake. This is my room. You must have the wrong number.' The man checked his key card—it said room 110.",
+  "bookNote": {
+    "en": "A man checked into a hotel and was given room 101. When he opened the door, he saw another person already in the room. He said, 'I'm sorry, I think there's been a mistake.' The other person said, 'No mistake. This is my room. You must have the wrong number.' The man checked his key card—it said room 110.",
+    "vi": "Một người đàn ông check-in khách sạn và được cho phòng 101. Khi anh mở cửa, anh thấy một người khác đã ở trong phòng. Anh nói, 'Tôi xin lỗi, tôi nghĩ có nhầm lẫn.' Người kia nói, 'Không nhầm. Đây là phòng của tôi. Bạn chắc có số sai.' Người đàn ông kiểm tra thẻ khóa—nó nói phòng 110."
+  },
   "bookSections": [],
   "chapters": []
 }

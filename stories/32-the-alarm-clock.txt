@@ -1,6 +1,9 @@
 {
   "name": "The Alarm Clock",
-  "bookNote": "A man set his alarm clock for 6 AM, but it didn't go off. He woke up at 8 AM and was late for work. When he checked the alarm clock, he realized he had set it for 6 PM instead of 6 AM. He thought, 'Well, at least I'll be on time for dinner.'",
+  "bookNote": {
+    "en": "A man set his alarm clock for 6 AM, but it didn't go off. He woke up at 8 AM and was late for work. When he checked the alarm clock, he realized he had set it for 6 PM instead of 6 AM. He thought, 'Well, at least I'll be on time for dinner.'",
+    "vi": "Một người đàn ông đặt đồng hồ báo thức lúc 6 giờ sáng, nhưng nó không kêu. Anh thức dậy lúc 8 giờ sáng và muộn làm việc. Khi anh kiểm tra đồng hồ báo thức, anh nhận ra anh đã đặt nó lúc 6 giờ chiều thay vì 6 giờ sáng. Anh nghĩ, 'Ồ, ít nhất tôi sẽ đúng giờ cho bữa tối.'"
+  },
   "bookSections": [],
   "chapters": []
 }

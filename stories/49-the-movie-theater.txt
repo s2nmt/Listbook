@@ -1,6 +1,9 @@
 {
   "name": "The Movie Theater",
-  "bookNote": "A man went to a movie theater and bought a ticket. When he entered the theater, he saw that the movie had already started. He asked an usher, 'When did the movie start?' The usher said, 'About 20 minutes ago.' The man said, 'But the ticket says 7 PM!' The usher replied, 'Yes, but the movie started at 6:40 PM.'",
+  "bookNote": {
+    "en": "A man went to a movie theater and bought a ticket. When he entered the theater, he saw that the movie had already started. He asked an usher, 'When did the movie start?' The usher said, 'About 20 minutes ago.' The man said, 'But the ticket says 7 PM!' The usher replied, 'Yes, but the movie started at 6:40 PM.'",
+    "vi": "Một người đàn ông đến rạp chiếu phim và mua vé. Khi anh bước vào rạp, anh thấy bộ phim đã bắt đầu rồi. Anh hỏi người soát vé, 'Bộ phim bắt đầu lúc nào?' Người soát vé nói, 'Khoảng 20 phút trước.' Người đàn ông nói, 'Nhưng vé nói 7 giờ tối!' Người soát vé trả lời, 'Vâng, nhưng bộ phim bắt đầu lúc 6:40 tối.'"
+  },
   "bookSections": [],
   "chapters": []
 }

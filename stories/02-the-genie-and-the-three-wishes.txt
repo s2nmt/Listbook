@@ -1,6 +1,9 @@
 {
   "name": "The Genie and the Three Wishes",
-  "bookNote": "A man finds a lamp and rubs it, releasing a genie. The genie grants him three wishes. The man wishes for a million dollars, and poof, a million dollars appear. He wishes for a luxury car, and poof, a car appears. For his final wish, he asks to be irresistible to women. Poof, he's turned into a box of chocolates.",
+  "bookNote": {
+    "en": "A man finds a lamp and rubs it, releasing a genie. The genie grants him three wishes. The man wishes for a million dollars, and poof, a million dollars appear. He wishes for a luxury car, and poof, a car appears. For his final wish, he asks to be irresistible to women. Poof, he's turned into a box of chocolates.",
+    "vi": "Một phụ nữ mua một con vẹt từng sống trong quán bar. Con vẹt liên tục chửi thề. Cô cố dạy nó những từ lịch sự, nhưng nó vẫn tiếp tục chửi thề. Trong sự bực bội, cô đặt con vẹt vào tủ đông vài phút. Khi cô lấy nó ra, con vẹt xin lỗi và hỏi, 'Con gà đã làm gì vậy?'"
+  },
   "bookSections": [],
   "chapters": []
 }

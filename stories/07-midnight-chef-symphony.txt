@@ -1,6 +1,0 @@
-{
-  "name": "Midnight Chef Symphony",
-  "bookNote": "Lara attempted a quiet midnight grilled cheese, confident she could cook without waking her roommates. Instead she triggered the smoke alarm, serenaded the building with fan noises, and waved a dish towel like a conductor embracing chaotic jazz. The sandwich survived, slightly toasted and very proud of its dramatic debut.",
-  "bookSections": [],
-  "chapters": []
-}

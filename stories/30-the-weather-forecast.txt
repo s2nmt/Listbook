@@ -1,6 +1,9 @@
 {
   "name": "The Weather Forecast",
-  "bookNote": "The weather forecast said it would be sunny all day. A man left his umbrella at home and went to work. Halfway there, it started pouring rain. He called the weather service to complain. They said, 'We forecast the weather, not control it!'",
+  "bookNote": {
+    "en": "The weather forecast said it would be sunny all day. A man left his umbrella at home and went to work. Halfway there, it started pouring rain. He called the weather service to complain. They said, 'We forecast the weather, not control it!'",
+    "vi": "Dự báo thời tiết nói sẽ nắng cả ngày. Một người đàn ông để ô ở nhà và đi làm. Nửa đường, trời bắt đầu mưa như trút. Anh gọi dịch vụ thời tiết để phàn nàn. Họ nói, 'Chúng tôi dự báo thời tiết, không điều khiển nó!'"
+  },
   "bookSections": [],
   "chapters": []
 }

@@ -1,6 +1,9 @@
 {
   "name": "The GPS Navigation",
-  "bookNote": "A man was following GPS directions to a restaurant. The GPS told him to turn left, but he turned right by mistake. The GPS said, 'Recalculating route.' He turned around and went back. The GPS said, 'Recalculating route.' He thought, 'This GPS is as confused as I am!'",
+  "bookNote": {
+    "en": "A man was following GPS directions to a restaurant. The GPS told him to turn left, but he turned right by mistake. The GPS said, 'Recalculating route.' He turned around and went back. The GPS said, 'Recalculating route.' He thought, 'This GPS is as confused as I am!'",
+    "vi": "Một người đàn ông đang theo chỉ dẫn GPS đến một nhà hàng. GPS bảo anh rẽ trái, nhưng anh rẽ phải do nhầm lẫn. GPS nói, 'Tính toán lại tuyến đường.' Anh quay lại và đi ngược. GPS nói, 'Tính toán lại tuyến đường.' Anh nghĩ, 'GPS này bối rối như tôi vậy!'"
+  },
   "bookSections": [],
   "chapters": []
 }

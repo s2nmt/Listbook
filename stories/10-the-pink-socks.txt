@@ -1,6 +1,9 @@
 {
   "name": "The Pink Socks",
-  "bookNote": "John opened the package and found a pair of bright pink socks! Confused, he checked his order and realized he had clicked the wrong item. Mary laughed when she saw the socks, and they both had a good laugh. John decided to wear them anyway, and they became his lucky socks.",
+  "bookNote": {
+    "en": "John opened the package and found a pair of bright pink socks! Confused, he checked his order and realized he had clicked the wrong item. Mary laughed when she saw the socks, and they both had a good laugh. John decided to wear them anyway, and they became his lucky socks.",
+    "vi": "Mark đặt mật khẩu máy tính mới của mình là 'sai.' Bằng cách đó, nếu anh quên, hệ thống sẽ nhắc anh, 'Mật khẩu của bạn không đúng.' Nó hoạt động hoàn hảo cho đến khi đồng nghiệp của anh cố đăng nhập và thốt lên, 'Mật khẩu của bạn không đúng?' Mark cười toe toét, 'Chính xác!'"
+  },
   "bookSections": [],
   "chapters": []
 }

@@ -1,6 +1,9 @@
 {
   "name": "The Dry Cleaner",
-  "bookNote": "A man took his suit to the dry cleaner and asked them to remove a stain. When he picked it up, the stain was gone, but there was a hole where the stain had been. He asked, 'What happened?' The dry cleaner said, 'We had to cut it out. The stain was too stubborn.'",
+  "bookNote": {
+    "en": "A man took his suit to the dry cleaner and asked them to remove a stain. When he picked it up, the stain was gone, but there was a hole where the stain had been. He asked, 'What happened?' The dry cleaner said, 'We had to cut it out. The stain was too stubborn.'",
+    "vi": "Một người đàn ông mang bộ vest đến tiệm giặt khô và yêu cầu họ loại bỏ vết bẩn. Khi anh nhận nó, vết bẩn đã biến mất, nhưng có một lỗ nơi vết bẩn đã từng ở. Anh hỏi, 'Chuyện gì đã xảy ra?' Người giặt khô nói, 'Chúng tôi phải cắt nó ra. Vết bẩn quá cứng đầu.'"
+  },
   "bookSections": [],
   "chapters": []
 }

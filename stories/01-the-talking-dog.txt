@@ -1,6 +1,9 @@
 {
   "name": "The Talking Dog",
-  "bookNote": "A man sees a sign: 'Talking Dog for Sale.' He rings the bell and the owner tells him the dog is in the backyard. The man asks the dog, 'Can you talk?' 'Yep,' the dog replies. 'I worked for the CIA, traveling the world. Now I'm retired.' Amazed, the man asks the owner how much. The owner says, 'Ten dollars.' 'Why so cheap?' The owner replies, 'He's a liar. He never did any of that.'",
+  "bookNote": {
+    "en": "A man sees a sign: 'Talking Dog for Sale.' He rings the bell and the owner tells him the dog is in the backyard. The man asks the dog, 'Can you talk?' 'Yep,' the dog replies. 'I worked for the CIA, traveling the world. Now I'm retired.' Amazed, the man asks the owner how much. The owner says, 'Ten dollars.' 'Why so cheap?' The owner replies, 'He's a liar. He never did any of that.'",
+    "vi": "Một người đàn ông thấy biển hiệu: 'Chó biết nói bán.' Anh ta bấm chuông và chủ nhà nói con chó đang ở sân sau. Người đàn ông hỏi con chó, 'Bạn có biết nói không?' 'Có chứ,' con chó trả lời. 'Tôi đã làm việc cho CIA, đi khắp thế giới. Giờ tôi đã nghỉ hưu.' Ngạc nhiên, người đàn ông hỏi chủ nhà giá bao nhiêu. Chủ nhà nói, 'Mười đô la.' 'Sao rẻ thế?' Chủ nhà trả lời, 'Nó là kẻ nói dối. Nó chưa bao giờ làm những việc đó.'"
+  },
   "bookSections": [],
   "chapters": []
 }

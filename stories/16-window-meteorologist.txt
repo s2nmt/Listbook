@@ -1,6 +1,0 @@
-{
-  "name": "Window Meteorologist",
-  "bookNote": "Colin insists on forecasting weather by touching his apartment window. He declared Tuesday “brisk but optimistic,” dressed in layers, and stepped outside into a humid wall of summer. He blamed the lying glass, went back in for shorts, and started drafting an apology letter to his ceiling fan.",
-  "bookSections": [],
-  "chapters": []
-}

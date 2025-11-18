@@ -1,6 +1,9 @@
 {
   "name": "The Parking Ticket",
-  "bookNote": "A man parked his car and saw a parking meter that said '2 hours free parking.' He was thrilled and went shopping. When he returned, he found a parking ticket on his windshield. Confused, he read the meter again. It actually said '2 hours free parking—if you pay for 3 hours.'",
+  "bookNote": {
+    "en": "A man parked his car and saw a parking meter that said '2 hours free parking.' He was thrilled and went shopping. When he returned, he found a parking ticket on his windshield. Confused, he read the meter again. It actually said '2 hours free parking—if you pay for 3 hours.'",
+    "vi": "Một người đàn ông đỗ xe và thấy một đồng hồ đỗ xe nói 'Đỗ xe miễn phí 2 giờ.' Anh vui mừng và đi mua sắm. Khi anh trở lại, anh tìm thấy một vé phạt đỗ xe trên kính chắn gió. Bối rối, anh đọc lại đồng hồ. Nó thực sự nói 'Đỗ xe miễn phí 2 giờ—nếu bạn trả cho 3 giờ.'"
+  },
   "bookSections": [],
   "chapters": []
 }

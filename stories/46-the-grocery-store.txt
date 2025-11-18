@@ -1,6 +1,9 @@
 {
   "name": "The Grocery Store",
-  "bookNote": "A man went to the grocery store to buy milk. He walked up and down the aisles but couldn't find it. He asked a store employee, 'Where is the milk?' The employee said, 'It's in the dairy section, aisle 3.' The man said, 'I'm in aisle 3, and I don't see it.' The employee said, 'That's because you're in the frozen food section.'",
+  "bookNote": {
+    "en": "A man went to the grocery store to buy milk. He walked up and down the aisles but couldn't find it. He asked a store employee, 'Where is the milk?' The employee said, 'It's in the dairy section, aisle 3.' The man said, 'I'm in aisle 3, and I don't see it.' The employee said, 'That's because you're in the frozen food section.'",
+    "vi": "Một người đàn ông đến cửa hàng tạp hóa để mua sữa. Anh đi lên xuống các lối đi nhưng không tìm thấy. Anh hỏi một nhân viên cửa hàng, 'Sữa ở đâu?' Nhân viên nói, 'Nó ở khu sữa, lối đi 3.' Người đàn ông nói, 'Tôi đang ở lối đi 3, và tôi không thấy nó.' Nhân viên nói, 'Đó là vì bạn đang ở khu thực phẩm đông lạnh.'"
+  },
   "bookSections": [],
   "chapters": []
 }

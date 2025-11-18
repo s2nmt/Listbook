@@ -1,6 +1,0 @@
-{
-  "name": "Microwave Countdown Drama",
-  "bookNote": "Jules treats the microwave countdown like a suspense thriller, refusing to let it beep. She sprints across the kitchen to stop it at exactly one second, pumping her fists in victory. Her smartwatch thinks she is doing interval training and keeps congratulating her for daily heroics.",
-  "bookSections": [],
-  "chapters": []
-}

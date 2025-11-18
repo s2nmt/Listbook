@@ -1,6 +1,9 @@
 {
   "name": "The Coffee Spill",
-  "bookNote": "Lisa rushed to a morning meeting and decided to bring a cup of coffee. When she entered the meeting room, she tripped and spilled coffee all over her boss's shirt. The room fell silent until her boss laughed and said, 'I needed some caffeine too!'",
+  "bookNote": {
+    "en": "Lisa rushed to a morning meeting and decided to bring a cup of coffee. When she entered the meeting room, she tripped and spilled coffee all over her boss's shirt. The room fell silent until her boss laughed and said, 'I needed some caffeine too!'",
+    "vi": "Lisa vội vã đến cuộc họp buổi sáng và quyết định mang một cốc cà phê. Khi cô bước vào phòng họp, cô vấp ngã và đổ cà phê khắp áo sơ mi của sếp. Căn phòng im lặng cho đến khi sếp của cô cười và nói, 'Tôi cũng cần một chút caffeine!'"
+  },
   "bookSections": [],
   "chapters": []
 }

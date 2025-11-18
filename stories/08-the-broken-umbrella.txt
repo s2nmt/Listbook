@@ -1,6 +1,9 @@
 {
   "name": "The Broken Umbrella",
-  "bookNote": "It was raining heavily when Jane left the house. She grabbed her umbrella and rushed outside. As soon as she opened it, the wind turned it inside out! She tried to fix it, but the wind was too strong. Finally, she gave up and walked in the rain, holding the broken umbrella like a modern art sculpture.",
+  "bookNote": {
+    "en": "It was raining heavily when Jane left the house. She grabbed her umbrella and rushed outside. As soon as she opened it, the wind turned it inside out! She tried to fix it, but the wind was too strong. Finally, she gave up and walked in the rain, holding the broken umbrella like a modern art sculpture.",
+    "vi": "Một người đàn ông mua một con vẹt được cho là biết nói. Sau nhiều tuần im lặng, anh ta trở lại cửa hàng thú cưng. Chủ cửa hàng hỏi, 'Anh có mua gương cho con vẹt chưa?' Người đàn ông nói chưa. 'Đó là vấn đề,' chủ cửa hàng nói. 'Vẹt thích nhìn mình trong gương và nói chuyện!' Người đàn ông mua một chiếc gương, và con vẹt bắt đầu nói chuyện ngay lập tức."
+  },
   "bookSections": [],
   "chapters": []
 }

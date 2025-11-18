@@ -1,6 +1,0 @@
-{
-  "name": "Decaf Disaster Day",
-  "bookNote": "Marcus proudly announced he had switched to decaf to become a calmer version of himself. Thirty minutes later he realized he had brewed regular coffee, powered through two presentations, reorganized the supply closet, and apologized to the office plant for speaking too loudly. He now labels every mug with sticky notes like an overcaffeinated librarian guarding secrets.",
-  "bookSections": [],
-  "chapters": []
-}

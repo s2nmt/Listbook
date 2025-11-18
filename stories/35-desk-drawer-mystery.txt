@@ -1,6 +1,0 @@
-{
-  "name": "Desk Drawer Mystery",
-  "bookNote": "Jon keeps finding glitter in his desk drawer despite never owning glitter. He suspects a crafty ghost or possibly the enthusiastic intern who loves scrapbooks. Rather than investigate, he simply signs every email with a sparkly flourish to match the ambiance.",
-  "bookSections": [],
-  "chapters": []
-}

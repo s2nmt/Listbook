@@ -1,6 +1,0 @@
-{
-  "name": "Elevator Small Talk Escape",
-  "bookNote": "Ellie boarded the elevator planning to ride in silence, but a stranger enthusiastically asked about her weekend plans. She panicked, blurted out that she was training for a competitive napping league, and immediately regretted everything. The stranger applauded, requested tickets, and the elevator stopped three floors early. Ellie took the stairs the rest of the week to avoid a rematch.",
-  "bookSections": [],
-  "chapters": []
-}

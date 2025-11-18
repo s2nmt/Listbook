@@ -1,6 +1,9 @@
 {
   "name": "The Doctor's Diagnosis",
-  "bookNote": "A man goes to the doctor and says, 'Doctor, I think I'm a moth.' The doctor replies, 'You need a psychiatrist, not a doctor.' The man says, 'I know, but your light was on.'",
+  "bookNote": {
+    "en": "A man goes to the doctor and says, 'Doctor, I think I'm a moth.' The doctor replies, 'You need a psychiatrist, not a doctor.' The man says, 'I know, but your light was on.'",
+    "vi": "Một luật sư và một nông dân ngồi cạnh nhau trên máy bay. Luật sư hỏi nông dân có muốn chơi một trò chơi không. Nông dân từ chối, muốn ngủ. Luật sư nài nỉ, đề nghị trả nông dân 5 đô cho mỗi câu hỏi anh ta không trả lời được, trong khi nông dân chỉ phải trả 1 đô. Luật sư hỏi, 'Khoảng cách giữa Trái Đất và Mặt Trăng là bao nhiêu?' Nông dân đưa 1 đô. Nông dân hỏi, 'Cái gì lên đồi với ba chân và xuống với bốn chân?' Luật sư bí, đưa nông dân 5 đô, và hỏi, 'Đó là gì?' Nông dân đưa 1 đô và quay lại ngủ."
+  },
   "bookSections": [],
   "chapters": []
 }

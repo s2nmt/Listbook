@@ -1,6 +1,9 @@
 {
   "name": "The Parrot with a Foul Mouth",
-  "bookNote": "A woman buys a parrot that previously lived in a bar. The parrot constantly swears. She tries to teach it polite words, but it keeps swearing. In frustration, she puts the parrot in the freezer for a few minutes. When she takes it out, the parrot apologizes and asks, 'What did the chicken do?'",
+  "bookNote": {
+    "en": "A woman buys a parrot that previously lived in a bar. The parrot constantly swears. She tries to teach it polite words, but it keeps swearing. In frustration, she puts the parrot in the freezer for a few minutes. When she takes it out, the parrot apologizes and asks, 'What did the chicken do?'",
+    "vi": "Một người đàn ông đến gặp bác sĩ và nói, 'Bác sĩ, tôi nghĩ tôi là một con bướm đêm.' Bác sĩ trả lời, 'Anh cần một bác sĩ tâm thần, không phải bác sĩ thường.' Người đàn ông nói, 'Tôi biết, nhưng đèn của ông đang bật.'"
+  },
   "bookSections": [],
   "chapters": []
 }

@@ -1,6 +1,0 @@
-{
-  "name": "Plant Parent Hotline",
-  "bookNote": "Theo worried his fern looked bored, so he read motivational quotes to it every morning. One day he spotted a new leaf and immediately texted six friends to announce Fernando’s growth spurt. The group chat responded with confetti emojis and unsolicited fertilizer tips, turning Theo into the proudest plant parent on the block.",
-  "bookSections": [],
-  "chapters": []
-}

@@ -1,6 +1,0 @@
-{
-  "name": "Staircase Motivational Speech",
-  "bookNote": "While climbing six flights, Arman gave himself a motivational speech out loud, complete with inspirational quotes and dramatic pauses. Halfway up he realized a neighbor was trailing behind, silently cheering. They finished the stairs together like a victorious marathon team.",
-  "bookSections": [],
-  "chapters": []
-}

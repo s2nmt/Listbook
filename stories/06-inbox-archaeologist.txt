@@ -1,6 +1,0 @@
-{
-  "name": "Inbox Archaeologist",
-  "bookNote": "Dev opened his email to find a message he had sent himself six months ago titled IMPORTANT. Inside he had written a single sentence: “Do not forget to breathe.” He spent ten minutes trying to decode the hidden meaning, decided past Dev was either a philosopher or exhausted, and marked it complete with a triumphant sigh.",
-  "bookSections": [],
-  "chapters": []
-}

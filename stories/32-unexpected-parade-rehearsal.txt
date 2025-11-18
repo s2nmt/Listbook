@@ -1,6 +1,0 @@
-{
-  "name": "Unexpected Parade Rehearsal",
-  "bookNote": "Vic practiced playing the kazoo for an upcoming charity parade, unaware that the open window turned the entire street into his audience. Neighbors peeked out, clapped along, and someone shouted for an encore. Vic took a bow, promised wardrobe upgrades, and now refers to his living room as the rehearsal hall.",
-  "bookSections": [],
-  "chapters": []
-}

@@ -1,6 +1,0 @@
-{
-  "name": "Morning Mirror Pep Talk",
-  "bookNote": "Skye gives herself a pep talk every morning using a tiny travel mirror. One day she dropped it, caught it with a dramatic flourish, and cheered for her own reflexes. The pep talk turned into a spontaneous dance party with toothpaste foam providing stage fog.",
-  "bookSections": [],
-  "chapters": []
-}

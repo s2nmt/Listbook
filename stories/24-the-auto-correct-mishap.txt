@@ -1,6 +1,9 @@
 {
   "name": "The Auto-Correct Mishap",
-  "bookNote": "Tom texted his girlfriend, wanting to write 'I miss you,' but autocorrect changed it to 'I mess you.' His girlfriend replied, 'Yes, you always mess me up!'",
+  "bookNote": {
+    "en": "Tom texted his girlfriend, wanting to write 'I miss you,' but autocorrect changed it to 'I mess you.' His girlfriend replied, 'Yes, you always mess me up!'",
+    "vi": "Tom nhắn tin cho bạn gái, muốn viết 'Anh nhớ em,' nhưng tự động sửa đã đổi thành 'Anh làm rối em.' Bạn gái của anh trả lời, 'Đúng, anh luôn làm rối em!'"
+  },
   "bookSections": [],
   "chapters": []
 }

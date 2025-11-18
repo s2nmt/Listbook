@@ -1,6 +1,9 @@
 {
   "name": "The Autocorrect Apology",
-  "bookNote": "Tom texted his friend, 'I'm sorry for the incontinence.' He meant 'inconvenience,' but autocorrect had other plans. His friend replied, 'No worries, but maybe see a doctor about that.'",
+  "bookNote": {
+    "en": "Tom texted his friend, 'I'm sorry for the incontinence.' He meant 'inconvenience,' but autocorrect had other plans. His friend replied, 'No worries, but maybe see a doctor about that.'",
+    "vi": "Ở một quán cà phê, một khách hàng hỏi mật khẩu Wi-Fi. Người phục vụ trả lời, 'Bạn cần mua cà phê trước.' Khách hàng mua cà phê và hỏi lại. Người phục vụ nói, 'Bạn cần mua cà phê trước—tất cả chữ thường, không có khoảng trống.'"
+  },
   "bookSections": [],
   "chapters": []
 }

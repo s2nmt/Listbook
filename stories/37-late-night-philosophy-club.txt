@@ -1,6 +1,0 @@
-{
-  "name": "Late Night Philosophy Club",
-  "bookNote": "Oscar swore he would sleep early, then discovered a documentary about bees at midnight. He whispered questions to the screen, took furious notes, and texted friends philosophical thoughts about honey democracy. No one responded until morning, when they gently reminded him that sleep is also important.",
-  "bookSections": [],
-  "chapters": []
-}

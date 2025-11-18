@@ -1,6 +1,9 @@
 {
   "name": "The Restaurant Reservation",
-  "bookNote": "A couple made a restaurant reservation for 7 PM. When they arrived, the restaurant was closed. They called the restaurant and asked why it was closed. The manager said, 'We're closed on Mondays.' The couple said, 'But today is Tuesday!' The manager replied, 'I know, but we're still closed.'",
+  "bookNote": {
+    "en": "A couple made a restaurant reservation for 7 PM. When they arrived, the restaurant was closed. They called the restaurant and asked why it was closed. The manager said, 'We're closed on Mondays.' The couple said, 'But today is Tuesday!' The manager replied, 'I know, but we're still closed.'",
+    "vi": "Một cặp đôi đặt bàn nhà hàng lúc 7 giờ tối. Khi họ đến, nhà hàng đã đóng cửa. Họ gọi nhà hàng và hỏi tại sao nó đóng cửa. Người quản lý nói, 'Chúng tôi đóng cửa vào thứ Hai.' Cặp đôi nói, 'Nhưng hôm nay là thứ Ba!' Người quản lý trả lời, 'Tôi biết, nhưng chúng tôi vẫn đóng cửa.'"
+  },
   "bookSections": [],
   "chapters": []
 }

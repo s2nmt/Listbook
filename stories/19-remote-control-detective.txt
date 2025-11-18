@@ -1,6 +1,0 @@
-{
-  "name": "Remote Control Detective",
-  "bookNote": "Lena spent fifteen minutes searching for the TV remote, only to discover it balanced on top of the fridge next to a half-eaten brownie. She held a brief courtroom session accusing her future self of sabotage. The remote was acquitted, and the brownie was sentenced to immediate consumption.",
-  "bookSections": [],
-  "chapters": []
-}

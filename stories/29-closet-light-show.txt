@@ -1,6 +1,0 @@
-{
-  "name": "Closet Light Show",
-  "bookNote": "Every time Nina opens her closet, motion-sensor lights flicker dramatically, making her feel like a celebrity entering stage left. She has started narrating her outfit choices in a British accent for added flair. The cat watches from the doorway, clearly judging but secretly invested in the wardrobe plotline.",
-  "bookSections": [],
-  "chapters": []
-}

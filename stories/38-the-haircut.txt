@@ -1,6 +1,9 @@
 {
   "name": "The Haircut",
-  "bookNote": "A man went to a barber and asked for a trim. The barber cut his hair too short. The man said, 'I asked for a trim, not a buzz cut!' The barber replied, 'I'm sorry, but your hair was so long, I got carried away. But look on the bright side—you'll save money on shampoo!'",
+  "bookNote": {
+    "en": "A man went to a barber and asked for a trim. The barber cut his hair too short. The man said, 'I asked for a trim, not a buzz cut!' The barber replied, 'I'm sorry, but your hair was so long, I got carried away. But look on the bright side—you'll save money on shampoo!'",
+    "vi": "Một người đàn ông đến thợ cắt tóc và yêu cầu cắt tỉa. Người thợ cắt tóc cắt tóc anh quá ngắn. Người đàn ông nói, 'Tôi yêu cầu một lần cắt tỉa, không phải cắt trọc!' Người thợ cắt tóc trả lời, 'Tôi xin lỗi, nhưng tóc của bạn quá dài, tôi đã quá tay. Nhưng nhìn mặt tích cực—bạn sẽ tiết kiệm tiền cho dầu gội đầu!'"
+  },
   "bookSections": [],
   "chapters": []
 }

@@ -1,6 +1,9 @@
 {
   "name": "The Wrong Number",
-  "bookNote": "A man received a text message that said, 'I'm at the restaurant. Where are you?' He replied, 'I think you have the wrong number.' The person texted back, 'Are you sure? This is my husband's number.' The man replied, 'I'm very sure. I'm a single woman.'",
+  "bookNote": {
+    "en": "A man received a text message that said, 'I'm at the restaurant. Where are you?' He replied, 'I think you have the wrong number.' The person texted back, 'Are you sure? This is my husband's number.' The man replied, 'I'm very sure. I'm a single woman.'",
+    "vi": "Một người đàn ông nhận được tin nhắn nói, 'Tôi đang ở nhà hàng. Anh ở đâu?' Anh trả lời, 'Tôi nghĩ bạn nhầm số.' Người đó nhắn lại, 'Bạn có chắc không? Đây là số của chồng tôi.' Người đàn ông trả lời, 'Tôi rất chắc. Tôi là một phụ nữ độc thân.'"
+  },
   "bookSections": [],
   "chapters": []
 }

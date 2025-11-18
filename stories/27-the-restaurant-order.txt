@@ -1,6 +1,9 @@
 {
   "name": "The Restaurant Order",
-  "bookNote": "A man ordered a pizza and asked for extra cheese. When the pizza arrived, he was disappointed to see it had no cheese at all. He called the restaurant to complain. The manager said, 'You asked for extra cheese, so we gave you extra—on the side.'",
+  "bookNote": {
+    "en": "A man ordered a pizza and asked for extra cheese. When the pizza arrived, he was disappointed to see it had no cheese at all. He called the restaurant to complain. The manager said, 'You asked for extra cheese, so we gave you extra—on the side.'",
+    "vi": "Một người đàn ông đặt pizza và yêu cầu thêm phô mai. Khi pizza đến, anh thất vọng khi thấy nó không có phô mai nào cả. Anh gọi nhà hàng để phàn nàn. Người quản lý nói, 'Bạn yêu cầu thêm phô mai, vì vậy chúng tôi đã cho thêm—ở bên cạnh.'"
+  },
   "bookSections": [],
   "chapters": []
 }

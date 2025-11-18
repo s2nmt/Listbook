@@ -1,6 +1,0 @@
-{
-  "name": "Forgotten Lunch Adventure",
-  "bookNote": "Dana packed lunch, left it by the door, and realized the mistake only after bragging about homemade pesto at work. She transformed the oversight into a scavenger hunt, trading snacks with coworkers until she built an impressive sampler platter. The pesto enjoyed a nice day off at home.",
-  "bookSections": [],
-  "chapters": []
-}

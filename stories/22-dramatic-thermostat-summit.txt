@@ -1,6 +1,0 @@
-{
-  "name": "Dramatic Thermostat Summit",
-  "bookNote": "Roommates Ezra and Quinn hold weekly diplomatic summits over thermostat settings. Ezra arrives with charts, Quinn arrives with blankets. After hours of negotiation they settle on a number neither can remember and end up adjusting it again before breakfast. They now refer to the thermostat as The Negotiator.",
-  "bookSections": [],
-  "chapters": []
-}

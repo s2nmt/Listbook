@@ -1,6 +1,0 @@
-{
-  "name": "Charging Cable Maze",
-  "bookNote": "Harper opened her drawer of random cables to find the single charger that fit her aging tablet. Instead she found a collection of mystery connectors, two headphones from 2011, and a dramatic sense of betrayal. She labeled the drawer “tech archaeology” and now charges everything in the kitchen like a renegade.",
-  "bookSections": [],
-  "chapters": []
-}

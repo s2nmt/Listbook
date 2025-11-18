@@ -1,6 +1,9 @@
 {
   "name": "The Gym Membership",
-  "bookNote": "A man signed up for a gym membership, excited to get in shape. On his first day, he walked in and saw a sign that said 'Free pizza for new members!' He thought, 'This is the best gym ever!' Then he realized he was in the wrong building—it was a pizza place next door.",
+  "bookNote": {
+    "en": "A man signed up for a gym membership, excited to get in shape. On his first day, he walked in and saw a sign that said 'Free pizza for new members!' He thought, 'This is the best gym ever!' Then he realized he was in the wrong building—it was a pizza place next door.",
+    "vi": "Một người đàn ông đăng ký thành viên phòng gym, hào hứng để có dáng. Vào ngày đầu tiên, anh bước vào và thấy một biển hiệu nói 'Pizza miễn phí cho thành viên mới!' Anh nghĩ, 'Đây là phòng gym tuyệt nhất từ trước đến nay!' Sau đó anh nhận ra anh đang ở nhầm tòa nhà—đó là một quán pizza bên cạnh."
+  },
   "bookSections": [],
   "chapters": []
 }

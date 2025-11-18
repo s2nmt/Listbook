@@ -1,6 +1,9 @@
 {
   "name": "The ATM Machine",
-  "bookNote": "A man went to an ATM to withdraw money. He inserted his card and entered his PIN. The machine said, 'Insufficient funds.' He thought, 'That's strange. I just deposited money yesterday.' Then he realized he was using his credit card instead of his debit card.",
+  "bookNote": {
+    "en": "A man went to an ATM to withdraw money. He inserted his card and entered his PIN. The machine said, 'Insufficient funds.' He thought, 'That's strange. I just deposited money yesterday.' Then he realized he was using his credit card instead of his debit card.",
+    "vi": "Một người đàn ông đến máy ATM để rút tiền. Anh cắm thẻ và nhập mã PIN. Máy nói, 'Không đủ tiền.' Anh nghĩ, 'Lạ nhỉ. Tôi vừa gửi tiền hôm qua.' Sau đó anh nhận ra anh đang dùng thẻ tín dụng thay vì thẻ ghi nợ."
+  },
   "bookSections": [],
   "chapters": []
 }

@@ -1,6 +1,9 @@
 {
   "name": "The Birthday Cake",
-  "bookNote": "A woman ordered a birthday cake that said 'Happy 30th Birthday!' When she picked it up, the cake said 'Happy 80th Birthday!' She called the bakery to complain. The baker said, 'I'm so sorry! I must have misread the order. But look on the bright side—you look great for 80!'",
+  "bookNote": {
+    "en": "A woman ordered a birthday cake that said 'Happy 30th Birthday!' When she picked it up, the cake said 'Happy 80th Birthday!' She called the bakery to complain. The baker said, 'I'm so sorry! I must have misread the order. But look on the bright side—you look great for 80!'",
+    "vi": "Một phụ nữ đặt một chiếc bánh sinh nhật nói 'Chúc mừng sinh nhật lần thứ 30!' Khi cô nhận nó, chiếc bánh nói 'Chúc mừng sinh nhật lần thứ 80!' Cô gọi tiệm bánh để phàn nàn. Người thợ làm bánh nói, 'Tôi rất xin lỗi! Tôi chắc đã đọc nhầm đơn hàng. Nhưng nhìn mặt tích cực—bạn trông tuyệt vời cho 80 tuổi!'"
+  },
   "bookSections": [],
   "chapters": []
 }

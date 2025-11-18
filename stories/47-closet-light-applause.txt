@@ -1,6 +1,0 @@
-{
-  "name": "Closet Light Applause",
-  "bookNote": "Whenever Rowan flips on the closet light, the motion sensor beams like a spotlight. Rowan bows, narrates the outfit selection, and thanks the invisible audience. Laundry day now feels like a matinee performance with sock encores.",
-  "bookSections": [],
-  "chapters": []
-}

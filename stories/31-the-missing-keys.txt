@@ -1,6 +1,9 @@
 {
   "name": "The Missing Keys",
-  "bookNote": "A man spent an hour searching for his car keys. He looked in his pockets, under the couch, and even in the refrigerator. Finally, his wife asked, 'Did you check your hand?' He looked down and saw the keys in his hand the entire time. He had been holding them while searching for them.",
+  "bookNote": {
+    "en": "A man spent an hour searching for his car keys. He looked in his pockets, under the couch, and even in the refrigerator. Finally, his wife asked, 'Did you check your hand?' He looked down and saw the keys in his hand the entire time. He had been holding them while searching for them.",
+    "vi": "Một người đàn ông dành một giờ tìm kiếm chìa khóa xe. Anh tìm trong túi, dưới ghế sofa, và thậm chí trong tủ lạnh. Cuối cùng, vợ anh hỏi, 'Anh đã kiểm tra tay của mình chưa?' Anh nhìn xuống và thấy chìa khóa trong tay suốt thời gian. Anh đã cầm chúng trong khi tìm kiếm chúng."
+  },
   "bookSections": [],
   "chapters": []
 }

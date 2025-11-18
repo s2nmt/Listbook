@@ -1,6 +1,9 @@
 {
   "name": "The Gas Station",
-  "bookNote": "A man pulled into a gas station and asked the attendant to fill up his car. The attendant said, 'I'm sorry, but we're out of gas.' The man said, 'But you're a gas station!' The attendant replied, 'I know, but we ran out this morning. The delivery truck is late.'",
+  "bookNote": {
+    "en": "A man pulled into a gas station and asked the attendant to fill up his car. The attendant said, 'I'm sorry, but we're out of gas.' The man said, 'But you're a gas station!' The attendant replied, 'I know, but we ran out this morning. The delivery truck is late.'",
+    "vi": "Một người ghé trạm xăng và nhờ nhân viên đổ đầy bình. Nhân viên nói: 'Xin lỗi, chúng tôi hết xăng rồi.' Ông ấy thắc mắc: 'Nhưng đây là trạm xăng mà!' Nhân viên đáp: 'Tôi biết, nhưng chúng tôi đã hết hàng từ sáng nay. Xe tải giao xăng đang tới trễ.'"
+  },
   "bookSections": [],
   "chapters": []
 }

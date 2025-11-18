@@ -1,6 +1,9 @@
 {
   "name": "The Unintended Text",
-  "bookNote": "Mark sent a text complaining about his boss to his colleague. However, he accidentally sent it directly to his boss. Fortunately, his boss had a sense of humor and replied, 'I think so too!'",
+  "bookNote": {
+    "en": "Mark sent a text complaining about his boss to his colleague. However, he accidentally sent it directly to his boss. Fortunately, his boss had a sense of humor and replied, 'I think so too!'",
+    "vi": "Mark gửi tin nhắn phàn nàn về sếp của mình cho đồng nghiệp. Tuy nhiên, anh vô tình gửi trực tiếp cho sếp của mình. May mắn thay, sếp của anh có khiếu hài hước và trả lời, 'Tôi cũng nghĩ vậy!'"
+  },
   "bookSections": [],
   "chapters": []
 }

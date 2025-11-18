@@ -1,6 +1,9 @@
 {
   "name": "The Shopping List",
-  "bookNote": "A woman wrote a shopping list: milk, eggs, bread, and butter. When she got to the store, she realized she had forgotten the list at home. She called her husband and asked him to read it to her. He said, 'I can't find it. Where did you leave it?' She replied, 'On the kitchen counter, next to the milk, eggs, bread, and butter.'",
+  "bookNote": {
+    "en": "A woman wrote a shopping list: milk, eggs, bread, and butter. When she got to the store, she realized she had forgotten the list at home. She called her husband and asked him to read it to her. He said, 'I can't find it. Where did you leave it?' She replied, 'On the kitchen counter, next to the milk, eggs, bread, and butter.'",
+    "vi": "Một phụ nữ viết danh sách mua sắm: sữa, trứng, bánh mì, và bơ. Khi cô đến cửa hàng, cô nhận ra cô đã quên danh sách ở nhà. Cô gọi chồng và yêu cầu anh đọc cho cô. Anh nói, 'Anh không tìm thấy. Em để nó ở đâu?' Cô trả lời, 'Trên quầy bếp, bên cạnh sữa, trứng, bánh mì, và bơ.'"
+  },
   "bookSections": [],
   "chapters": []
 }

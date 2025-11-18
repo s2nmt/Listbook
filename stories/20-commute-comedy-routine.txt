@@ -1,6 +1,0 @@
-{
-  "name": "Commute Comedy Routine",
-  "bookNote": "Ben narrates his walk to work like a travel show host. He critiques puddles, compliments dogs on their fashion choices, and interviews pigeons about city infrastructure. One morning a tourist applauded and asked for the channel. Ben winked, promised new episodes daily, and kept pretending the sidewalk was a red carpet.",
-  "bookSections": [],
-  "chapters": []
-}

@@ -1,6 +1,9 @@
 {
   "name": "The Parking Space",
-  "bookNote": "A man found a parking space and started to park his car. Another car pulled in from the other side and took the space. The man said, 'I was here first!' The other driver said, 'I don't see your name on it!' The man replied, 'I don't see yours either!'",
+  "bookNote": {
+    "en": "A man found a parking space and started to park his car. Another car pulled in from the other side and took the space. The man said, 'I was here first!' The other driver said, 'I don't see your name on it!' The man replied, 'I don't see yours either!'",
+    "vi": "Một người đàn ông tìm thấy chỗ đỗ xe và bắt đầu đỗ xe. Một chiếc xe khác kéo vào từ phía bên kia và chiếm chỗ. Người đàn ông nói, 'Tôi đến trước!' Người lái xe kia nói, 'Tôi không thấy tên bạn trên đó!' Người đàn ông trả lời, 'Tôi cũng không thấy tên bạn!'"
+  },
   "bookSections": [],
   "chapters": []
 }

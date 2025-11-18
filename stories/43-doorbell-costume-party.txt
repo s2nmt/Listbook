@@ -1,6 +1,0 @@
-{
-  "name": "Doorbell Costume Party",
-  "bookNote": "Whenever the doorbell rings, Marco throws on the first costume he finds from his theater days. Delivery drivers never know if a pirate, astronaut, or Victorian poet will sign for the package. Reviews consistently mention prompt payment and outstanding dedication to bit comedy.",
-  "bookSections": [],
-  "chapters": []
-}

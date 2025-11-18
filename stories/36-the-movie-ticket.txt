@@ -1,6 +1,9 @@
 {
   "name": "The Movie Ticket",
-  "bookNote": "A man bought a movie ticket and went to see the film. Halfway through, he realized he was in the wrong theater. He was watching a romantic comedy, but he had bought a ticket for an action movie. He thought, 'Well, at least this movie is better than the one I paid for!'",
+  "bookNote": {
+    "en": "A man bought a movie ticket and went to see the film. Halfway through, he realized he was in the wrong theater. He was watching a romantic comedy, but he had bought a ticket for an action movie. He thought, 'Well, at least this movie is better than the one I paid for!'",
+    "vi": "Một người đàn ông mua vé xem phim và đi xem phim. Nửa chừng, anh nhận ra anh đang ở rạp sai. Anh đang xem một bộ phim hài lãng mạn, nhưng anh đã mua vé cho một bộ phim hành động. Anh nghĩ, 'Ồ, ít nhất bộ phim này hay hơn bộ phim tôi đã trả tiền!'"
+  },
   "bookSections": [],
   "chapters": []
 }

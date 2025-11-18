@@ -1,6 +1,0 @@
-{
-  "name": "Overprepared Picnic Trio",
-  "bookNote": "Three friends planned a simple picnic, then each arrived with enough snacks to feed a marching band. They arranged everything into courses, invented fancy menu names, and invited curious squirrels as guest judges. The squirrels stole a cracker, which everyone considered a glowing review.",
-  "bookSections": [],
-  "chapters": []
-}

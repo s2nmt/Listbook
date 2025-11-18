@@ -1,6 +1,0 @@
-{
-  "name": "Backpack Time Capsule",
-  "bookNote": "Andre cleaned his backpack for the first time since winter and discovered a fossilized granola bar, seven pens without caps, and a heartfelt note reminding him to buy batteries. He framed the note as an artifact from a wiser era and kept the granola bar as emergency motivation for future excavations.",
-  "bookSections": [],
-  "chapters": []
-}

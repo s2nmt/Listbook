@@ -1,6 +1,0 @@
-{
-  "name": "Paper Towel Stage Show",
-  "bookNote": "Sasha replaced the paper towel roll and accidentally pulled the entire sheet like a magician revealing a banner. Instead of rewinding it, she staged a miniature theater curtain for her countertop fruit bowl. Guests now applaud before taking oranges.",
-  "bookSections": [],
-  "chapters": []
-}

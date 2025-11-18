@@ -1,6 +1,9 @@
 {
   "name": "The Coffee Shop",
-  "bookNote": "A man ordered a large coffee at a coffee shop. The barista gave him a small coffee instead. He said, 'I ordered a large coffee.' The barista replied, 'I'm sorry, but we're out of large cups. This is the largest we have.' The man thought, 'Then why do you have a large option on the menu?'",
+  "bookNote": {
+    "en": "A man ordered a large coffee at a coffee shop. The barista gave him a small coffee instead. He said, 'I ordered a large coffee.' The barista replied, 'I'm sorry, but we're out of large cups. This is the largest we have.' The man thought, 'Then why do you have a large option on the menu?'",
+    "vi": "Một người đàn ông gọi một ly cà phê lớn tại quán cà phê. Người phục vụ đưa cho anh một ly cà phê nhỏ thay vì. Anh nói, 'Tôi gọi một ly cà phê lớn.' Người phục vụ trả lời, 'Tôi xin lỗi, nhưng chúng tôi hết ly lớn. Đây là ly lớn nhất chúng tôi có.' Người đàn ông nghĩ, 'Vậy tại sao bạn có tùy chọn lớn trong thực đơn?'"
+  },
   "bookSections": [],
   "chapters": []
 }
