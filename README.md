@@ -1,7 +1,7 @@
 1. The Talking Dog – stories/01-the-talking-dog.txt
 2. The Genie and the Three Wishes – stories/02-the-genie-and-the-three-wishes.txt
 3. The Parrot with a Foul Mouth – stories/03-the-parrot-with-a-foul-mouth.txt
-4. The Doctor's Diagnosis – stories/04-the-doctors-diagnosis.txt
+4. The Doctor's Diagnosis – stories/04-the-doctor-s-diagnosis.txt
 5. The Lawyer and the Farmer – stories/05-the-lawyer-and-the-farmer.txt
 6. The Forgetful Professor – stories/06-the-forgetful-professor.txt
 7. The Clever Dog – stories/07-the-clever-dog.txt
@@ -44,7 +44,7 @@
 44. The Coffee Shop – stories/44-the-coffee-shop.txt
 45. The Parking Space – stories/45-the-parking-space.txt
 46. The Grocery Store – stories/46-the-grocery-store.txt
-47. The Doctor's Appointment – stories/47-the-doctors-appointment.txt
+47. The Doctor's Appointment – stories/47-the-doctor-s-appointment.txt
 48. The Restaurant Reservation – stories/48-the-restaurant-reservation.txt
 49. The Movie Theater – stories/49-the-movie-theater.txt
 50. The Gas Station – stories/50-the-gas-station.txt
