@@ -2,7 +2,7 @@
   "name": "The Diet Dilemma",
   "bookNote": {
     "en": "Sarah decided to eat healthier and told her friend, 'I'm on a seafood diet.' Her friend replied, 'I thought you were avoiding seafood.' Sarah laughed, 'No, I see food, and I eat it.'",
-    "vi": "Trong một cuộc phỏng vấn xin việc, người phỏng vấn hỏi, 'Điểm yếu lớn nhất của bạn là gì?' Ứng viên trả lời, 'Trung thực.' Người phỏng vấn nói, 'Tôi không nghĩ trung thực là điểm yếu.' Ứng viên trả lời, 'Tôi không quan tâm bạn nghĩ gì.'"
+    "vi": "Sarah quyết định ăn uống lành mạnh hơn và nói với bạn, 'Tôi đang ăn kiêng hải sản.' Bạn của cô trả lời, 'Tôi nghĩ bạn đang tránh hải sản.' Sarah cười, 'Không, tôi thấy đồ ăn, và tôi ăn nó.'"
   },
   "bookSections": [],
   "chapters": []

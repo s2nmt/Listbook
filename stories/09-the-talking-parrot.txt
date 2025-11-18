@@ -2,7 +2,7 @@
   "name": "The Talking Parrot",
   "bookNote": {
     "en": "A man bought a parrot that was supposed to speak. After weeks of silence, he returned to the pet shop. The shopkeeper asked, 'Did you buy a mirror for the parrot?' The man said no. 'That's the problem,' said the shopkeeper. 'Parrots love to look at themselves and talk!' The man bought a mirror, and the parrot started talking immediately.",
-    "vi": "John mở gói hàng và tìm thấy một đôi tất màu hồng rực rỡ! Bối rối, anh kiểm tra đơn hàng và nhận ra anh đã nhấp nhầm mục. Mary cười khi cô thấy đôi tất, và cả hai đều cười vui vẻ. John quyết định vẫn mang chúng, và chúng trở thành đôi tất may mắn của anh."
+    "vi": "Một người đàn ông mua một con vẹt được cho là biết nói. Sau nhiều tuần im lặng, anh ta trở lại cửa hàng thú cưng. Chủ cửa hàng hỏi, 'Anh có mua gương cho con vẹt chưa?' Người đàn ông nói chưa. 'Đó là vấn đề,' chủ cửa hàng nói. 'Vẹt thích nhìn mình trong gương và nói chuyện!' Người đàn ông mua một chiếc gương, và con vẹt bắt đầu nói chuyện ngay lập tức."
   },
   "bookSections": [],
   "chapters": []

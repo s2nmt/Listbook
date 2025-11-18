@@ -2,7 +2,7 @@
   "name": "The Clever Dog",
   "bookNote": {
     "en": "A man walked into a bar with his dog. The bartender said, 'No dogs allowed.' The man replied, 'But my dog can talk!' Skeptical, the bartender asked, 'What's on top of a house?' The dog barked, 'Roof!' The bartender, unimpressed, said, 'Get out!' As they left, the dog turned to his owner and said, 'Should I have said ceiling?'",
-    "vi": "Trời mưa to khi Jane rời khỏi nhà. Cô cầm ô và vội vã ra ngoài. Ngay khi cô mở nó ra, gió làm nó lộn ngược! Cô cố sửa nó, nhưng gió quá mạnh. Cuối cùng, cô bỏ cuộc và đi trong mưa, cầm chiếc ô hỏng như một tác phẩm điêu khắc nghệ thuật hiện đại."
+    "vi": "Một người đàn ông bước vào quán bar với con chó của mình. Người phục vụ nói, 'Không cho chó vào.' Người đàn ông trả lời, 'Nhưng con chó của tôi biết nói!' Nghi ngờ, người phục vụ hỏi, 'Cái gì ở trên nóc nhà?' Con chó sủa, 'Mái nhà!' Người phục vụ, không ấn tượng, nói, 'Ra ngoài!' Khi họ rời đi, con chó quay lại chủ và nói, 'Tôi có nên nói trần nhà không?'"
   },
   "bookSections": [],
   "chapters": []

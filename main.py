@@ -31,9 +31,9 @@ stories = [
                 "For his final wish, he asks to be irresistible to women. Poof, he's turned into a box of chocolates."
             ),
             "vi": (
-                "Một phụ nữ mua một con vẹt từng sống trong quán bar. Con vẹt liên tục chửi thề. Cô cố dạy nó "
-                "những từ lịch sự, nhưng nó vẫn tiếp tục chửi thề. Trong sự bực bội, cô đặt con vẹt vào tủ đông vài phút. "
-                "Khi cô lấy nó ra, con vẹt xin lỗi và hỏi, 'Con gà đã làm gì vậy?'"
+                "Một người đàn ông tìm thấy một chiếc đèn và chà xát nó, giải phóng một vị thần. Vị thần ban cho anh ta ba điều ước. Người đàn ông ước có một "
+                "triệu đô la, và poof, một triệu đô la xuất hiện. Anh ta ước có một chiếc xe sang trọng, và poof, một chiếc xe xuất hiện. "
+                "Với điều ước cuối cùng, anh ta xin được trở nên không thể cưỡng lại với phụ nữ. Poof, anh ta biến thành một hộp sô cô la."
             ),
         },
     },
@@ -46,8 +46,9 @@ stories = [
                 "When she takes it out, the parrot apologizes and asks, 'What did the chicken do?'"
             ),
             "vi": (
-                "Một người đàn ông đến gặp bác sĩ và nói, 'Bác sĩ, tôi nghĩ tôi là một con bướm đêm.' Bác sĩ trả lời, 'Anh cần một "
-                "bác sĩ tâm thần, không phải bác sĩ thường.' Người đàn ông nói, 'Tôi biết, nhưng đèn của ông đang bật.'"
+                "Một phụ nữ mua một con vẹt từng sống trong quán bar. Con vẹt liên tục chửi thề. Cô cố dạy nó "
+                "những từ lịch sự, nhưng nó vẫn tiếp tục chửi thề. Trong sự bực bội, cô đặt con vẹt vào tủ đông vài phút. "
+                "Khi cô lấy nó ra, con vẹt xin lỗi và hỏi, 'Con gà đã làm gì vậy?'"
             ),
         },
     },
@@ -59,12 +60,8 @@ stories = [
                 "psychiatrist, not a doctor.' The man says, 'I know, but your light was on.'"
             ),
             "vi": (
-                "Một luật sư và một nông dân ngồi cạnh nhau trên máy bay. Luật sư hỏi nông dân có muốn "
-                "chơi một trò chơi không. Nông dân từ chối, muốn ngủ. Luật sư nài nỉ, đề nghị trả nông dân 5 đô cho "
-                "mỗi câu hỏi anh ta không trả lời được, trong khi nông dân chỉ phải trả 1 đô. Luật sư hỏi, 'Khoảng cách "
-                "giữa Trái Đất và Mặt Trăng là bao nhiêu?' Nông dân đưa 1 đô. Nông dân hỏi, 'Cái gì lên đồi với ba "
-                "chân và xuống với bốn chân?' Luật sư bí, đưa nông dân 5 đô, và hỏi, 'Đó là gì?' "
-                "Nông dân đưa 1 đô và quay lại ngủ."
+                "Một người đàn ông đến gặp bác sĩ và nói, 'Bác sĩ, tôi nghĩ tôi là một con bướm đêm.' Bác sĩ trả lời, 'Anh cần một "
+                "bác sĩ tâm thần, không phải bác sĩ thường.' Người đàn ông nói, 'Tôi biết, nhưng đèn của ông đang bật.'"
             ),
         },
     },
@@ -80,10 +77,12 @@ stories = [
                 "farmer hands over $1 and goes back to sleep."
             ),
             "vi": (
-                "Một giáo sư nổi tiếng vì hay quên. Một ngày, vợ ông nói, 'Đừng quên hôm nay chúng ta chuyển nhà.' "
-                "Ông hứa sẽ nhớ. Sau đó, ông trở về ngôi nhà cũ và thấy nó trống rỗng. Nhận ra sai lầm, ông "
-                "ngồi trên hiên nhà. Một đứa trẻ đi ngang hỏi, 'Ông đang chuyển đến à?' Giáo sư trả lời, 'Không, tôi nghĩ tôi "
-                "đã chuyển đi rồi.'"
+                "Một luật sư và một nông dân ngồi cạnh nhau trên máy bay. Luật sư hỏi nông dân có muốn "
+                "chơi một trò chơi không. Nông dân từ chối, muốn ngủ. Luật sư nài nỉ, đề nghị trả nông dân 5 đô cho "
+                "mỗi câu hỏi anh ta không trả lời được, trong khi nông dân chỉ phải trả 1 đô. Luật sư hỏi, 'Khoảng cách "
+                "giữa Trái Đất và Mặt Trăng là bao nhiêu?' Nông dân đưa 1 đô. Nông dân hỏi, 'Cái gì lên đồi với ba "
+                "chân và xuống với bốn chân?' Luật sư bí, đưa nông dân 5 đô, và hỏi, 'Đó là gì?' "
+                "Nông dân đưa 1 đô và quay lại ngủ."
             ),
         },
     },
@@ -97,10 +96,10 @@ stories = [
                 "already moved out.'"
             ),
             "vi": (
-                "Một người đàn ông bước vào quán bar với con chó của mình. Người phục vụ nói, 'Không cho chó vào.' Người đàn ông trả lời, 'Nhưng con chó của tôi "
-                "biết nói!' Nghi ngờ, người phục vụ hỏi, 'Cái gì ở trên nóc nhà?' Con chó sủa, 'Mái nhà!' "
-                "Người phục vụ, không ấn tượng, nói, 'Ra ngoài!' Khi họ rời đi, con chó quay lại chủ và nói, 'Tôi có nên "
-                "nói trần nhà không?'"
+                "Một giáo sư nổi tiếng vì hay quên. Một ngày, vợ ông nói, 'Đừng quên hôm nay chúng ta chuyển nhà.' "
+                "Ông hứa sẽ nhớ. Sau đó, ông trở về ngôi nhà cũ và thấy nó trống rỗng. Nhận ra sai lầm, ông "
+                "ngồi trên hiên nhà. Một đứa trẻ đi ngang hỏi, 'Ông đang chuyển đến à?' Giáo sư trả lời, 'Không, tôi nghĩ tôi "
+                "đã chuyển đi rồi.'"
             ),
         },
     },
@@ -114,9 +113,10 @@ stories = [
                 "said ceiling?'"
             ),
             "vi": (
-                "Trời mưa to khi Jane rời khỏi nhà. Cô cầm ô và vội vã ra ngoài. Ngay khi cô "
-                "mở nó ra, gió làm nó lộn ngược! Cô cố sửa nó, nhưng gió quá mạnh. Cuối cùng, cô "
-                "bỏ cuộc và đi trong mưa, cầm chiếc ô hỏng như một tác phẩm điêu khắc nghệ thuật hiện đại."
+                "Một người đàn ông bước vào quán bar với con chó của mình. Người phục vụ nói, 'Không cho chó vào.' Người đàn ông trả lời, 'Nhưng con chó của tôi "
+                "biết nói!' Nghi ngờ, người phục vụ hỏi, 'Cái gì ở trên nóc nhà?' Con chó sủa, 'Mái nhà!' "
+                "Người phục vụ, không ấn tượng, nói, 'Ra ngoài!' Khi họ rời đi, con chó quay lại chủ và nói, 'Tôi có nên "
+                "nói trần nhà không?'"
             ),
         },
     },
@@ -129,10 +129,9 @@ stories = [
                 "gave up and walked in the rain, holding the broken umbrella like a modern art sculpture."
             ),
             "vi": (
-                "Một người đàn ông mua một con vẹt được cho là biết nói. Sau nhiều tuần im lặng, anh ta trở lại cửa hàng thú cưng. "
-                "Chủ cửa hàng hỏi, 'Anh có mua gương cho con vẹt chưa?' Người đàn ông nói chưa. 'Đó là vấn đề,' chủ cửa hàng nói. "
-                "'Vẹt thích nhìn mình trong gương và nói chuyện!' Người đàn ông mua một chiếc gương, và con vẹt bắt đầu "
-                "nói chuyện ngay lập tức."
+                "Trời mưa to khi Jane rời khỏi nhà. Cô cầm ô và vội vã ra ngoài. Ngay khi cô "
+                "mở nó ra, gió làm nó lộn ngược! Cô cố sửa nó, nhưng gió quá mạnh. Cuối cùng, cô "
+                "bỏ cuộc và đi trong mưa, cầm chiếc ô hỏng như một tác phẩm điêu khắc nghệ thuật hiện đại."
             ),
         },
     },
@@ -146,9 +145,10 @@ stories = [
                 "talking immediately."
             ),
             "vi": (
-                "John mở gói hàng và tìm thấy một đôi tất màu hồng rực rỡ! Bối rối, anh kiểm tra đơn hàng và nhận ra "
-                "anh đã nhấp nhầm mục. Mary cười khi cô thấy đôi tất, và cả hai đều cười vui vẻ. John "
-                "quyết định vẫn mang chúng, và chúng trở thành đôi tất may mắn của anh."
+                "Một người đàn ông mua một con vẹt được cho là biết nói. Sau nhiều tuần im lặng, anh ta trở lại cửa hàng thú cưng. "
+                "Chủ cửa hàng hỏi, 'Anh có mua gương cho con vẹt chưa?' Người đàn ông nói chưa. 'Đó là vấn đề,' chủ cửa hàng nói. "
+                "'Vẹt thích nhìn mình trong gương và nói chuyện!' Người đàn ông mua một chiếc gương, và con vẹt bắt đầu "
+                "nói chuyện ngay lập tức."
             ),
         },
     },
@@ -161,9 +161,9 @@ stories = [
                 "decided to wear them anyway, and they became his lucky socks."
             ),
             "vi": (
-                "Mark đặt mật khẩu máy tính mới của mình là 'sai.' Bằng cách đó, nếu anh quên, hệ thống sẽ nhắc anh, "
-                "'Mật khẩu của bạn không đúng.' Nó hoạt động hoàn hảo cho đến khi đồng nghiệp của anh cố đăng nhập và thốt lên, "
-                "'Mật khẩu của bạn không đúng?' Mark cười toe toét, 'Chính xác!'"
+                "John mở gói hàng và tìm thấy một đôi tất màu hồng rực rỡ! Bối rối, anh kiểm tra đơn hàng và nhận ra "
+                "anh đã nhấp nhầm mục. Mary cười khi cô thấy đôi tất, và cả hai đều cười vui vẻ. John "
+                "quyết định vẫn mang chúng, và chúng trở thành đôi tất may mắn của anh."
             ),
         },
     },
@@ -176,9 +176,9 @@ stories = [
                 "'Your password is incorrect?' Mark grinned, 'Exactly!'"
             ),
             "vi": (
-                "Emma gửi email cho sếp, định viết, 'Tôi sẽ gửi báo cáo cho anh vào ngày mai.' Tuy nhiên, "
-                "tự động sửa đã đổi 'ngày mai' thành 'hôm qua.' Sếp của cô trả lời, 'Ấn tượng! Cô cũng có thể dự đoán "
-                "số xổ số tuần tới không?'"
+                "Mark đặt mật khẩu máy tính mới của mình là 'sai.' Bằng cách đó, nếu anh quên, hệ thống sẽ nhắc anh, "
+                "'Mật khẩu của bạn không đúng.' Nó hoạt động hoàn hảo cho đến khi đồng nghiệp của anh cố đăng nhập và thốt lên, "
+                "'Mật khẩu của bạn không đúng?' Mark cười toe toét, 'Chính xác!'"
             ),
         },
     },
@@ -191,10 +191,9 @@ stories = [
                 "week's lottery numbers?'"
             ),
             "vi": (
-                "Sau một cuộc cãi vã nhỏ, Jake và vợ quyết định im lặng với nhau. Tối hôm đó, Jake "
-                "cần vợ đánh thức anh dậy lúc 6 giờ sáng cho chuyến bay sớm. Không muốn phá vỡ sự im lặng, anh viết trên một "
-                "mảnh giấy, 'Làm ơn đánh thức tôi lúc 6 giờ sáng.' Sáng hôm sau, anh thức dậy lúc 9 giờ sáng và tìm thấy một mảnh giấy bên cạnh: "
-                "'Bây giờ là 6 giờ sáng. Thức dậy đi.'"
+                "Emma gửi email cho sếp, định viết, 'Tôi sẽ gửi báo cáo cho anh vào ngày mai.' Tuy nhiên, "
+                "tự động sửa đã đổi 'ngày mai' thành 'hôm qua.' Sếp của cô trả lời, 'Ấn tượng! Cô cũng có thể dự đoán "
+                "số xổ số tuần tới không?'"
             ),
         },
     },
@@ -208,8 +207,10 @@ stories = [
                 "'It's 6 AM. Wake up.'"
             ),
             "vi": (
-                "Tom nhắn tin cho bạn, 'Tôi xin lỗi vì sự không kiềm chế.' Anh muốn nói 'bất tiện,' nhưng tự động sửa có "
-                "kế hoạch khác. Bạn của anh trả lời, 'Không sao, nhưng có lẽ nên đi khám bác sĩ về vấn đề đó.'"
+                "Sau một cuộc cãi vã nhỏ, Jake và vợ quyết định im lặng với nhau. Tối hôm đó, Jake "
+                "cần vợ đánh thức anh dậy lúc 6 giờ sáng cho chuyến bay sớm. Không muốn phá vỡ sự im lặng, anh viết trên một "
+                "mảnh giấy, 'Làm ơn đánh thức tôi lúc 6 giờ sáng.' Sáng hôm sau, anh thức dậy lúc 9 giờ sáng và tìm thấy một mảnh giấy bên cạnh: "
+                "'Bây giờ là 6 giờ sáng. Thức dậy đi.'"
             ),
         },
     },
@@ -221,9 +222,8 @@ stories = [
                 "plans. His friend replied, 'No worries, but maybe see a doctor about that.'"
             ),
             "vi": (
-                "Ở một quán cà phê, một khách hàng hỏi mật khẩu Wi-Fi. Người phục vụ trả lời, 'Bạn cần mua cà phê trước.' "
-                "Khách hàng mua cà phê và hỏi lại. Người phục vụ nói, 'Bạn cần mua cà phê trước—tất cả "
-                "chữ thường, không có khoảng trống.'"
+                "Tom nhắn tin cho bạn, 'Tôi xin lỗi vì sự không kiềm chế.' Anh muốn nói 'bất tiện,' nhưng tự động sửa có "
+                "kế hoạch khác. Bạn của anh trả lời, 'Không sao, nhưng có lẽ nên đi khám bác sĩ về vấn đề đó.'"
             ),
         },
     },
@@ -236,8 +236,9 @@ stories = [
                 "lowercase, no spaces.'"
             ),
             "vi": (
-                "Sarah quyết định ăn uống lành mạnh hơn và nói với bạn, 'Tôi đang ăn kiêng hải sản.' Bạn của cô trả lời, 'Tôi nghĩ "
-                "bạn đang tránh hải sản.' Sarah cười, 'Không, tôi thấy đồ ăn, và tôi ăn nó.'"
+                "Ở một quán cà phê, một khách hàng hỏi mật khẩu Wi-Fi. Người phục vụ trả lời, 'Bạn cần mua cà phê trước.' "
+                "Khách hàng mua cà phê và hỏi lại. Người phục vụ nói, 'Bạn cần mua cà phê trước—tất cả "
+                "chữ thường, không có khoảng trống.'"
             ),
         },
     },
@@ -249,9 +250,8 @@ stories = [
                 "you were avoiding seafood.' Sarah laughed, 'No, I see food, and I eat it.'"
             ),
             "vi": (
-                "Trong một cuộc phỏng vấn xin việc, người phỏng vấn hỏi, 'Điểm yếu lớn nhất của bạn là gì?' Ứng viên trả lời, "
-                "'Trung thực.' Người phỏng vấn nói, 'Tôi không nghĩ trung thực là điểm yếu.' Ứng viên trả lời, 'Tôi không "
-                "quan tâm bạn nghĩ gì.'"
+                "Sarah quyết định ăn uống lành mạnh hơn và nói với bạn, 'Tôi đang ăn kiêng hải sản.' Bạn của cô trả lời, 'Tôi nghĩ "
+                "bạn đang tránh hải sản.' Sarah cười, 'Không, tôi thấy đồ ăn, và tôi ăn nó.'"
             ),
         },
     },
@@ -264,21 +264,26 @@ stories = [
                 "care what you think.'"
             ),
             "vi": (
-                "Một người đàn ông bước vào thư viện và hỏi thủ thư, 'Sách về chứng hoang tưởng ở đâu?' Cô ấy thì thầm, "
-                "'Chúng ở ngay sau lưng anh.'"
+                "Trong một cuộc phỏng vấn xin việc, người phỏng vấn hỏi, 'Điểm yếu lớn nhất của bạn là gì?' Ứng viên trả lời, "
+                "'Trung thực.' Người phỏng vấn nói, 'Tôi không nghĩ trung thực là điểm yếu.' Ứng viên trả lời, 'Tôi không "
+                "quan tâm bạn nghĩ gì.'"
             ),
         },
     },
     {
-        "name": "The Library Lament",
+        "name": "The Smart Refrigerator",
         "bookNote": {
             "en": (
-                "A man walked into a library and asked the librarian, 'Where are the books on paranoia?' She whispered, "
-                "'They're right behind you.'"
+                "A man bought a smart refrigerator that could talk. One day, he opened it and the fridge said, 'You're out of "
+                "milk.' The man was impressed and went to buy milk. When he returned, the fridge said, 'You're out of eggs.' "
+                "The man went shopping again. After the third trip, the man asked, 'How do you know what I need?' The fridge "
+                "replied, 'I've been watching you through your phone camera.'"
             ),
             "vi": (
-                "Một người đàn ông bước vào thư viện và hỏi thủ thư, 'Sách về chứng hoang tưởng ở đâu?' Cô ấy thì thầm, "
-                "'Chúng ở ngay sau lưng anh.'"
+                "Một người đàn ông mua một chiếc tủ lạnh thông minh có thể nói chuyện. Một ngày, anh mở nó ra và tủ lạnh nói, 'Bạn hết "
+                "sữa rồi.' Người đàn ông ấn tượng và đi mua sữa. Khi anh trở về, tủ lạnh nói, 'Bạn hết trứng rồi.' "
+                "Người đàn ông lại đi mua sắm. Sau chuyến đi thứ ba, người đàn ông hỏi, 'Làm sao bạn biết tôi cần gì?' Tủ lạnh "
+                "trả lời, 'Tôi đã theo dõi bạn qua camera điện thoại của bạn.'"
             ),
         },
     },

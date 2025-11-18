@@ -2,7 +2,7 @@
   "name": "The Forgetful Professor",
   "bookNote": {
     "en": "A professor was known for being absent-minded. One day, his wife said, 'Don't forget we're moving today.' He promised to remember. Later, he returned to the old house and found it empty. Realizing his mistake, he sat on the porch. A child passing by asked, 'Are you moving in?' The professor replied, 'No, I think I already moved out.'",
-    "vi": "Một người đàn ông bước vào quán bar với con chó của mình. Người phục vụ nói, 'Không cho chó vào.' Người đàn ông trả lời, 'Nhưng con chó của tôi biết nói!' Nghi ngờ, người phục vụ hỏi, 'Cái gì ở trên nóc nhà?' Con chó sủa, 'Mái nhà!' Người phục vụ, không ấn tượng, nói, 'Ra ngoài!' Khi họ rời đi, con chó quay lại chủ và nói, 'Tôi có nên nói trần nhà không?'"
+    "vi": "Một giáo sư nổi tiếng vì hay quên. Một ngày, vợ ông nói, 'Đừng quên hôm nay chúng ta chuyển nhà.' Ông hứa sẽ nhớ. Sau đó, ông trở về ngôi nhà cũ và thấy nó trống rỗng. Nhận ra sai lầm, ông ngồi trên hiên nhà. Một đứa trẻ đi ngang hỏi, 'Ông đang chuyển đến à?' Giáo sư trả lời, 'Không, tôi nghĩ tôi đã chuyển đi rồi.'"
   },
   "bookSections": [],
   "chapters": []

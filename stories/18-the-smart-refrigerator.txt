@@ -1,0 +1,9 @@
+{
+  "name": "The Smart Refrigerator",
+  "bookNote": {
+    "en": "A man bought a smart refrigerator that could talk. One day, he opened it and the fridge said, 'You're out of milk.' The man was impressed and went to buy milk. When he returned, the fridge said, 'You're out of eggs.' The man went shopping again. After the third trip, the man asked, 'How do you know what I need?' The fridge replied, 'I've been watching you through your phone camera.'",
+    "vi": "Một người đàn ông mua một chiếc tủ lạnh thông minh có thể nói chuyện. Một ngày, anh mở nó ra và tủ lạnh nói, 'Bạn hết sữa rồi.' Người đàn ông ấn tượng và đi mua sữa. Khi anh trở về, tủ lạnh nói, 'Bạn hết trứng rồi.' Người đàn ông lại đi mua sắm. Sau chuyến đi thứ ba, người đàn ông hỏi, 'Làm sao bạn biết tôi cần gì?' Tủ lạnh trả lời, 'Tôi đã theo dõi bạn qua camera điện thoại của bạn.'"
+  },
+  "bookSections": [],
+  "chapters": []
+}

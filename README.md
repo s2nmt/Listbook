@@ -15,7 +15,7 @@
 15. The Wi-Fi Password – stories/15-the-wi-fi-password.txt
 16. The Diet Dilemma – stories/16-the-diet-dilemma.txt
 17. The Job Interview – stories/17-the-job-interview.txt
-18. The Library Lament – stories/18-the-library-lament.txt
+18. The Smart Refrigerator – stories/18-the-smart-refrigerator.txt
 19. The Coffee Conundrum – stories/19-the-coffee-conundrum.txt
 20. The Elevator Small Talk Escape – stories/20-the-elevator-small-talk-escape.txt
 21. The Lost Phone – stories/21-the-lost-phone.txt

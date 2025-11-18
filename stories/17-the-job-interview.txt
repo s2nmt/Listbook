@@ -2,7 +2,7 @@
   "name": "The Job Interview",
   "bookNote": {
     "en": "During a job interview, the interviewer asked, 'What's your greatest weakness?' The candidate replied, 'Honesty.' The interviewer said, 'I don't think honesty is a weakness.' The candidate responded, 'I don't care what you think.'",
-    "vi": "Một người đàn ông bước vào thư viện và hỏi thủ thư, 'Sách về chứng hoang tưởng ở đâu?' Cô ấy thì thầm, 'Chúng ở ngay sau lưng anh.'"
+    "vi": "Trong một cuộc phỏng vấn xin việc, người phỏng vấn hỏi, 'Điểm yếu lớn nhất của bạn là gì?' Ứng viên trả lời, 'Trung thực.' Người phỏng vấn nói, 'Tôi không nghĩ trung thực là điểm yếu.' Ứng viên trả lời, 'Tôi không quan tâm bạn nghĩ gì.'"
   },
   "bookSections": [],
   "chapters": []

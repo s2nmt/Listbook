@@ -2,7 +2,7 @@
   "name": "The Silent Treatment",
   "bookNote": {
     "en": "After a minor argument, Jake and his wife decided to give each other the silent treatment. That evening, Jake needed his wife to wake him up at 6 AM for an early flight. Not wanting to break the silence, he wrote on a piece of paper, 'Please wake me at 6 AM.' The next morning, he woke up at 9 AM and found a note beside him: 'It's 6 AM. Wake up.'",
-    "vi": "Tom nhắn tin cho bạn, 'Tôi xin lỗi vì sự không kiềm chế.' Anh muốn nói 'bất tiện,' nhưng tự động sửa có kế hoạch khác. Bạn của anh trả lời, 'Không sao, nhưng có lẽ nên đi khám bác sĩ về vấn đề đó.'"
+    "vi": "Sau một cuộc cãi vã nhỏ, Jake và vợ quyết định im lặng với nhau. Tối hôm đó, Jake cần vợ đánh thức anh dậy lúc 6 giờ sáng cho chuyến bay sớm. Không muốn phá vỡ sự im lặng, anh viết trên một mảnh giấy, 'Làm ơn đánh thức tôi lúc 6 giờ sáng.' Sáng hôm sau, anh thức dậy lúc 9 giờ sáng và tìm thấy một mảnh giấy bên cạnh: 'Bây giờ là 6 giờ sáng. Thức dậy đi.'"
   },
   "bookSections": [],
   "chapters": []
